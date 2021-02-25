@@ -357,3 +357,61 @@ formed 形成
 
 
 
+```
+It's a miracle that the naked animal should ____ such a harsh climate.
+A. survive      B. endure
+C. live         D. exist
+```
+
+在这样严酷的环境中不受保护的动物能够幸存简直是个奇迹。
+
+这一缺乏保护的动物竟然能在如此恶劣的环境下幸存实在是个奇迹。
+
+it 是形式主语  that引导主语从句；
+
+先翻译that从句，再把前面的it翻译成这或这一点或不翻译出来
+
+miracle             奇迹，表示吃惊、震惊、强烈的不可思议
+
+should              情态动词，表示说话人的情感 和miracle形成对应，表示竟然能，体现对奇迹的震惊
+
+naked animal  根据语境，翻译为缺乏保护的动物
+
+harsh  climate 恶劣的气候
+
+
+
+前缀 sur  表示跨越
+
+词根 vive  表示生命
+
+survive      字面意思是生命跨越了，翻译为在恶劣环境下幸存
+
+
+
+前缀 en     动词前缀
+
+词根 dure  时间的持续
+
+endure       意思是在不好的环境下能够持续较久的时间，意思是长期的忍受
+
+
+
+exist 不及物动词，不接宾语
+
+
+
+live  
+
+不及物动词 生存、生活  
+
+及物动词 过着一种什么样的生活 宾语是life
+
+
+
+
+
+
+
+
+
