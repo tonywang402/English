@@ -409,9 +409,49 @@ live
 
 
 
+```
+The young man's acting in the play was remarkable, ____ his youth and inexpensive.
+A. taking to         B.taking off
+C. taking away       D.taking into account
+```
+
+这个年轻演员的在演出的演技考虑他的年纪和缺乏经验还是非常不错的。
 
 
 
+考虑到他还年轻而且毫无经验，这个年轻人在这部戏中的表演已经是非常出色。
+
+逗号之前是主系表结构，是句子主干，逗号之后现在分词短语做原因状语
+
+act  行为、扮演什么角色（和戏剧相关）
+
+actor  男演员
+
+actress 女演员
+
+play   剧本、戏剧
+
+remarkable  非凡的，出色的，卓越的；显著的
+
+
+
+take into account    考虑到，引申为鉴于、由于，前果后因
+
+take to                      喜爱、喜欢 
+
+take off                      take表示拿 off表示离开，表示飞机的起飞  不及物动词短语
+
+take away                  表示取走、拿走
+
+
+
+```
+When he was questioned about the missing pen, he firmly ____ that he had ever seen it.
+A.denied           B.refused
+C.claimed          D.stated
+```
+
+当他被问到丢失的钢笔时，他坚定说道他没有看见。
 
 
 
