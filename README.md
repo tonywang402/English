@@ -259,7 +259,7 @@ prescribe  提前写了出来
 
 estimate  估计、估算  宾语一般跟数量或可能
 
-establish  建立 一般接机构
+establish  建立   一般接机构
 
 
 
@@ -452,6 +452,68 @@ C.claimed          D.stated
 ```
 
 当他被问到丢失的钢笔时，他坚定说道他没有看见。
+
+当被问到有关丢失的笔这件事，他坚决否认见到过它。
+
+主从符合句，逗号之前是when引导的时间状态从句，逗号之后是主干信息
+
+question  质疑、怀疑、问到
+
+question sb about  就某事质疑、怀疑某人
+
+missing   消失不见的
+
+
+
+本题逻辑 当被质疑，应该坚定否认
+
+deny     否认，后面可以跟that从句
+
+refuse  拒绝某人、某人的请求  不能跟that从句
+
+claimed  宣称、声称 可以接that从句
+
+state     陈述、叙述，可以跟that从句
+
+
+
+```
+At the age of 18, I began to ____ an account with the Bank of China.
+A. make        B. enter
+C. open        D. register
+```
+
+18岁的时候，我在中国银行开了一个账户。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
