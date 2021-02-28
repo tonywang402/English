@@ -477,6 +477,8 @@ state     陈述、叙述，可以跟that从句
 
 
 
+## 1月18号到1月23号
+
 ```
 At the age of 18, I began to ____ an account with the Bank of China.
 A. make        B. enter
@@ -485,15 +487,29 @@ C. open        D. register
 
 18岁的时候，我在中国银行开了一个账户。
 
+18岁时起，我便开始在中国银行开设账户。
+
+at the age of  在多大年龄时
+
+begin to do  / begin doing   开始去做某事
+
+open an account  开设账户
+
+with + 机构   在某个机构 
+
+enter an account 进入一个账户 
+
+register   登记  
 
 
 
+```
+In our highly technological society, the number of jobs for unskilled workers is ____.
+A. shrinking.        B.obscuring
+C. altering          D.constraining
+```
 
-
-
-
-
-
+在我们这个高度技术化社会，不熟练工人的数目正在缩减。
 
 
 
