@@ -511,15 +511,37 @@ C. altering          D.constraining
 
 在我们这个高度技术化社会，不熟练工人的数目正在缩减。
 
+在我们这个技术高度发达的社会，对于身无技能的工人来讲，工作的数量正在减少。
+
+逗号前的介词in短语，在整个句子中做地点状语
+
+highly technological society 技术高度发达的社会
+
+unskilled workers 身无技能的工人
 
 
 
+obscure      模糊的，默默无闻的
+
+obscuring   使模糊，变得模糊
+
+constrain    （一起死拉这个做某事）勉强，迫使，动作发出者是人
 
 
 
+alter    （哦，他呀）变化，改变 
+
+shrink  （说，缩）缩水，引申为数量的减少
 
 
 
+```
+They are well ___ with each other since they once studied in the same university.
+A. identified          B. recognized
+C. acknowledged        D. acquainted
+```
+
+他们彼此之间非常熟悉，因为他们曾经在同一所大学里学习。
 
 
 
