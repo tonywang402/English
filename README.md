@@ -543,13 +543,41 @@ C. acknowledged        D. acquainted
 
 他们彼此之间非常熟悉，因为他们曾经在同一所大学里学习。
 
+他们彼此之间很熟悉，这是因为他们曾经在同一所大学学习过。
+
+since 理解为既然、因为  引导果应关系
 
 
 
+acquire      获得
+
+acquaint    使熟悉
+
+be acquainted with 对什么熟悉，被动形式表示主动
 
 
 
+identity  身份 
 
+identify  认出、识别
+
+be identified with  支持、认同某人的（立场）
+
+
+
+acknowledge doing  承认做过某事
+
+recognize   认出，引申 为承认、认可
+
+
+
+```
+Do you hava any ____ about what living beings on other planets would be like?
+A. ideal           B. comprehension
+C. notion          D. intelligence
+```
+
+你对其他星球上生物有什么见解吗？
 
 
 
