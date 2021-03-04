@@ -579,7 +579,52 @@ C. notion          D. intelligence
 
 你对其他星球上生物有什么见解吗？
 
+其他星球上的生命体会是什么样子，对此你有概念吗？
+
+have any ___  about  对于什么，有什么
+
+what 引导名词性从句，作介词about的宾语
+
+being  存在，具体的存在物
+
+living   活着的，有生命的
+
+living begins  生物，生命体
+
+human begins  人类
+
+on 短语是beings的后置修饰语
+
+what be like  长得如何
 
 
 
+planet  行星、引申为星球
 
+notion  理解、概念  
+
+have some notion/idea/conception about 对什么有概念、了解
+
+
+
+ideal   理想
+
+
+
+comprehension   （综合式）理解
+
+understanding     （宽泛的）理解
+
+
+
+intelligence  智力、情报、
+
+
+
+```
+The children cheered up when they saw hundreds of colorful balloons ____  slowly into the sky.
+A. floating          B. raising
+C. heaving           D. ascending
+```
+
+当他们看见成百上千只彩色气球缓慢的升入天空时，孩子们欢呼起来。
