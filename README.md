@@ -628,3 +628,64 @@ C. heaving           D. ascending
 ```
 
 当他们看见成百上千只彩色气球缓慢的升入天空时，孩子们欢呼起来。
+
+当看到数以百计五颜六色的气球缓缓升上天空之时，孩子们欢呼了起来。
+
+cheer up  高兴起来
+
+see sb doing  看到某人正在做某事
+
+hundreds of  数以百计的
+
+colorful balloons  五颜六色的气球
+
+翻译时，状语前置
+
+
+
+前缀 a  强加语气
+
+词根 scend 攀爬，从低到高
+
+ascend   表示上升，可以及物或不及物
+
+ascend slowly into the sky  缓缓升入到空中
+
+
+
+heavy 重的
+
+heave  举起重物
+
+
+
+raise  举起、抬起、搬起
+
+
+
+boat  船
+
+float  漂浮 
+
+
+
+```
+Out of ____ revenge, he did his worst to blacken her character and ruin her reputation.
+A. perfect         B.total
+C. sheer           D.integral
+```
+
+出于纯粹的报复，他竭尽所能的抹黑她的品格，诋毁她的名誉。
+
+
+
+
+
+
+
+
+
+
+
+
+
