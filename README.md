@@ -677,7 +677,41 @@ C. sheer           D.integral
 
 出于纯粹的报复，他竭尽所能的抹黑她的品格，诋毁她的名誉。
 
+纯粹出于报复，他竭尽所能地诋毁她的人品，败坏她的声誉。
 
+out of 短语引导原因状语，out of 表示出自于
+
+
+
+sheer      语气形容词，表示语气的加强，纯粹的
+
+perfect    完美的，表示事物理想的状态
+
+total        总的，与数量有关
+
+integral   完整的，与整体相关联的
+
+
+
+do  one's worst to 竭尽所能做恶事
+
+
+
+blacken   抹黑，引申为中伤、诽谤、诋毁
+
+blacken sb character  诋毁某人人品
+
+ruin  完全的毁坏  
+
+ruin sb reputation  败坏某人的声誉
+
+```
+In American universities, classes are often arranged in more flexible ____ and many jobs on campus are reserved for students.
+A. scales          B. patterns
+C. grades          D. ranks
+```
+
+在美国的大学里，班级经常以更加灵活的模拟安排，在大学里的很多工作都是为学生保留的。
 
 
 
