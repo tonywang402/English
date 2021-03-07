@@ -705,6 +705,10 @@ ruin  完全的毁坏
 
 ruin sb reputation  败坏某人的声誉
 
+
+
+## 1月25号到
+
 ```
 In American universities, classes are often arranged in more flexible ____ and many jobs on campus are reserved for students.
 A. scales          B. patterns
@@ -713,7 +717,37 @@ C. grades          D. ranks
 
 在美国的大学里，班级经常以更加灵活的模拟安排，在大学里的很多工作都是为学生保留的。
 
+在美国的大学，课堂的组织形式较为灵活，校园里的很多工作也往往留给学生去做。
 
+on campus  在校园里 
+
+reserve  预留、保留
+
+pattern   way   means 方式 
+
+in this/that pattern/way  通过这种/那种方式
+
+in what pattern/way 通过什么方式
+
+in flexible pattern/way  通过灵活的方式
+
+
+
+by this/that means
+
+by what means 
+
+by flexible means  
+
+
+
+```
+The republication of the poet's most recent works will certainly ____ his national reputation.
+A. magnify          B. strengthen
+C. enlarge          D. enhance
+```
+
+这位诗人最近作品的再次出版肯定会提升他祖国的声誉。
 
 
 
