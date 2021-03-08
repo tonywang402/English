@@ -749,6 +749,78 @@ C. enlarge          D. enhance
 
 这位诗人最近作品的再次出版肯定会提升他祖国的声誉。
 
+这位诗人最近作品的再版将肯定会提升他全国性声望。
+
+
+
+enhance 抽象的提升或提高，常接抽象名词  
+
+enhance reputation  提升声望
+
+
+
+strength   力气、力量
+
+strengthen  （力量的）加强
+
+
+
+前缀 en    
+
+词根 large    大的
+
+enlarge         扩大，后面接的名词宾语要和large有关
+
+enlarge a photo  扩大一张照片
+
+enlarge one's vocabulary  扩大词汇量
+
+
+
+magnify  放大
+
+magnifier  放大器
+
+
+
+```
+The British government often says that furnishing children with ____ to the information superhighway is a top priority.
+A. procedure        B. protection
+C. allowance        D. access
+```
+
+英国政府经常强调给孩子们能进入信息时代是头等大事。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
