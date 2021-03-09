@@ -791,13 +791,47 @@ C. allowance        D. access
 
 英国政府经常强调给孩子们能进入信息时代是头等大事。
 
+英国政府一再强调给孩子们提供通向信息高速路的机会是头等大事
+
+furnishings 引导动名词短语
+
+furnish sb with sth 给某人装配某物、给某人提供某物
+
+a top priority  头等大事
+
+
+
+access to  通向某处的途径、通道、做某事的机会
+
+
+
+allow           允许
+
+allowance （父母给孩子的） 零花钱、（公司给员工的）津贴
+
+
+
+protection  from     保护免遭什么
+
+protection against  保护以防止什么
+
+
+
+proceed  继续
+
+procedure    继续做某事程序、步骤
 
 
 
 
 
+```
+Recently a number of cases have been reported of young children ____ a violent act previously seen on television.
+A. modifying      B. duplicating
+C. accelerating   D. stimulating
+```
 
-
+最近一些孩子们模仿在电视上看到的暴力行为被报道了出来。
 
 
 
