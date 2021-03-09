@@ -823,8 +823,6 @@ procedure    继续做某事程序、步骤
 
 
 
-
-
 ```
 Recently a number of cases have been reported of young children ____ a violent act previously seen on television.
 A. modifying      B. duplicating
@@ -833,15 +831,25 @@ C. accelerating   D. stimulating
 
 最近一些孩子们模仿在电视上看到的暴力行为被报道了出来。
 
+最近报道了大量孩子模仿之前在电视上看到的暴力行为的案件
+
+Recently a number of cases have been reported  要翻译成主动的形式，最近，报道了大量的案件、实例
+
+case of/about  是名饰分裂，为了防止头重脚轻
+
+young children's  duplicating a violent act 动名词短语的所有格  's省略了
+
+previously seen on television 过去分词作后置定语
 
 
 
+```
+For many patients， institutional care is the most _____ and beneficial form of case.
+A. persistent            B. appropriate
+C. thoughtful            D. sufficient
+```
 
-
-
-
-
-
+对于很多病人，机构的护理是最合适的，而且能从护理中获益
 
 
 
