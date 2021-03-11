@@ -851,13 +851,27 @@ C. thoughtful            D. sufficient
 
 对于很多病人，机构的护理是最合适的，而且能从护理中获益
 
+对于许多病人来讲，医疗机构的护理是最合适的，并且是最有益的一种护理形式。
+
+persist          坚持
+
+persistent  （东西）持久的，（人）坚持不懈的
+
+thoughtful  （人）周到的、体贴的
+
+appropriate  合适的
+
+sufficient   （数量）足够的
 
 
 
+```
+Any donation you can give will help us ____ the suffering and isolation of the homeless this New Year.
+A. lift             B. patch
+C. comfort          D. ease
+```
 
-
-
-
+你提供的任何捐助都会帮助我们去抚慰在今年无家可归者的痛苦与孤独。
 
 
 
