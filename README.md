@@ -873,13 +873,27 @@ C. comfort          D. ease
 
 你提供的任何捐助都会帮助我们去抚慰在今年无家可归者的痛苦与孤独。
 
+你所做的任何捐助都会有助于我们缓解无家可归者在这个新年所遭受的痛苦与孤独。
+
+考察动宾对应
+
+comfort    慰藉、安慰，宾语为人
+
+patch  名词补丁，动词修补  宾语为具体的物体
+
+lift       举起、提升 宾语为具体物体，表示抬起物体的高度
+
+ease   v.使轻松、缓解
+
+easy  1.容易的，2.轻松的
 
 
 
+```
+Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them --- especially for young people.
+```
 
-
-
-
+的确，经济疲软时期可能会加大阶级分化，并且减少跨越阶级的机会，尤其是对于年轻人
 
 
 
