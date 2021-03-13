@@ -889,11 +889,59 @@ easy  1.容易的，2.轻松的
 
 
 
+
+
+
+
+## 2月1号到
+
 ```
 Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them --- especially for young people.
 ```
 
 的确，经济疲软时期可能会加大阶级分化，并且减少跨越阶级的机会，尤其是对于年轻人
+
+确实，当前时期的经济低迷可能会加剧阶级分化，并且减少消除这一分化的机会，尤其是对于年轻人来讲，更是如此。
+
+indeed  语义衔接词，表示与上一句的衔接，具体而言表示递进
+
+this period of 在这一阶段，时期
+
+economic weakness 经济低迷
+
+divide  n.分化，鸿沟 v.分割
+
+reinforce  加强、加剧
+
+cross   v.跨越  
+
+
+
+```
+The correlation between happiness and investment was particularly strong for younger firms, which the authors attribute to less codified decision making process and the possible presence of younger and less experienced managers.
+```
+
+对于初创公司，幸福和投资的之间的关系是十分紧密的，作者认为这归因于更少指定规划的讨论和更多的年轻人以及更少的富有经验的管理者。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
