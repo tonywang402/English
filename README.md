@@ -963,7 +963,7 @@ Many said that unemployment, while extremely painful, had improved them in some 
 
 很多人说失业，尽管极其痛苦，但是在一些方面提升他们。包括他们变得更少去追求物质以及在更加节约，并且他们能够更好理解其他人的奋斗。
 
-很多人说失业，尽管令人及其痛苦，但是在某些方面提升了他们自己，他们变得不再那么物质至上并且在经济上更加谨慎，他们更多的关注到了其他人的不易。
+很多人说失业，尽管令人及其痛苦，但是在某些方面提升了他们自己：他们变得不再那么物质至上并且在经济上更加谨慎，他们更多的关注到了其他人的不易。
 
 many 是many people的缩写
 
@@ -973,6 +973,8 @@ while引导的让步状语从句，省略的it is
 
 一旦从句的主语和主句一致，具备省略大前提，尤其是谓语动词是be动词，把从句的主谓省略掉
 
+in some way:
+
 总分逻辑，解释型逻辑
 
 material     物质
@@ -981,15 +983,13 @@ materialism  物质主义
 
 materialistic 物质主义的，物质的
 
+
+
 financial prudent 在经济上谨慎
 
 be aware of  意识到
 
-struggles of others  其他人努力的不易
-
-
-
-
+struggles of others  其他人努力、不易
 
 
 
