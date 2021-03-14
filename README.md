@@ -923,13 +923,45 @@ The correlation between happiness and investment was particularly strong for you
 
 对于初创公司，幸福和投资的之间的关系是十分紧密的，作者认为这归因于更少指定规划的讨论和更多的年轻人以及更少的富有经验的管理者。
 
+幸福感与投资之间的相互关系对于年轻公司来讲是尤其明显的，作者将这一点归因于缺乏规范化的决策制定流程以及可能存在相对年轻且经验不足的管理层。
+
+correlation 相互关系 
+
+particularly strong  极为明显
+
+which 关系代词，引导非限制性定语从句
+
+attribute which to  把这一点归因于 
 
 
 
+code  规范
+
+codify  使规范
+
+codified  规范化的
+
+less codified  缺乏规范化的
+
+decision making 制定决策
+
+process 流程
 
 
 
+presence of 对人表示出席，对物表示存在
 
+possible presence of 可能存在什么
+
+younger and less experienced 相对年轻且经验不足的
+
+
+
+```
+Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others.
+```
+
+很多人说失业，尽管极其痛苦，但是在一些方面提升他们。包括他们变得更少去追求物质以及在更加节约，并且他们能够更好理解其他人的奋斗。
 
 
 
