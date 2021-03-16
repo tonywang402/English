@@ -999,11 +999,15 @@ In March 2010 a judge ruled that genes were unpatentable. Executives were violen
 
 在2010的三月份，一位法官宣判基因不具有专利性，为此，高管们是非常的焦虑。
 
+在2010年的三月份，一名法官做出裁决，认定基因是不可以获取专利。生物科技公司的管理层对此感到极为的不安。
+
+agitated  搅拌，引申为指人的心情不安
 
 
 
+```
+I had not realized how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development.
+```
 
-
-
-
+我没有意识到营销策略如此深刻影响着我们的认知，这个认知是如何理解什么对于孩子来说是天然的，包括我们对孩子心灵成长的核心信念。
 
