@@ -1011,3 +1011,30 @@ I had not realized how profoundly marketing trends dictated our perception of wh
 
 我没有意识到营销策略如此深刻影响着我们的认知，这个认知是如何理解什么对于孩子来说是天然的，包括我们对孩子心灵成长的核心信念。
 
+我原本没有意识到营销的潮流对我们有关儿童天性的理解，包括我们对于儿童心理发育的核心理念会有着如此大的影响。
+
+过去完成时 had not realized 原来没有意识到，后来才意识到 
+
+how引导名词性从句，做realize的宾语
+
+dictate  （人对人）口授，命令（物对物）影响
+
+preception   感受、感知 引申为理解
+
+副词一般为语气的加强
+
+
+
+which including our core belief
+
+非限制性定语从句中省略了which 
+
+psychological development 心理成长
+
+
+
+```
+As well as those chronic problems, the EU faces an acute crisis in its economic core, the sixteen countries that use the single currency.
+```
+
+除了那些长期存在的问题，欧盟在它的核心经济区，也就是使用同一种货币的十六个国家面临着一个棘手的问题。
