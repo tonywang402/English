@@ -893,7 +893,7 @@ easy  1.容易的，2.轻松的
 
 
 
-## 2月1号到
+## 2月1号到2月10号
 
 ```
 Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them --- especially for young people.
@@ -1057,3 +1057,54 @@ During the depression and the war, Americans had learned to live with less, and 
 ```
 
 在大萧条和战争期间，美国人已经学会了简单的生活，这种克制，加上战后对未来的信心，使得小而高效的住宅变得流行起来。
+
+在大萧条和战争期间，美国人学会了节衣缩食，这种克制以及战后对未来的信心，使得小而高效的住房绝对的时尚。
+
+during 引导时间状语
+
+本句 and 前后是因果关系
+
+in combination with 以及 和
+
+housing  住房
+
+style  风格
+
+stylish  时髦的
+
+positively 加强语气
+
+
+
+```
+The whirlwind that swept through newsrooms harmed everybody, but much of the damage has been concentrated in areas where newspaper are least distinctive.
+```
+
+这场席卷新闻编辑室的风暴伤害了所有人，但是最大的伤害集中在报纸中没有特色的区域。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
