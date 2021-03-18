@@ -1038,3 +1038,22 @@ As well as those chronic problems, the EU faces an acute crisis in its economic 
 ```
 
 除了那些长期存在的问题，欧盟在它的核心经济区，也就是使用同一种货币的十六个国家面临着一个棘手的问题。
+
+除了上述的那些长期性问题，欧盟还在其核心经济体当中还面临着严重的危机，即那些统一使用同一货币的16个国家。
+
+as well as
+
+1. 和、以及 表示两者相加
+2. 放在句首，表示除了什么，还---，besides 、in addition to 
+
+chronic  慢性的（疾病）长期性的（问题）
+
+acute  急性的（疾病）严重的（危机）
+
+
+
+```
+During the depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made small, efficient housing positively stylish.
+```
+
+在大萧条和战争期间，美国人已经学会了简单的生活，这种克制，加上战后对未来的信心，使得小而高效的住宅变得流行起来。
