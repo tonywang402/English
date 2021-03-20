@@ -1082,9 +1082,31 @@ The whirlwind that swept through newsrooms harmed everybody, but much of the dam
 
 这场席卷新闻编辑室的风暴伤害了所有人，但是最大的伤害集中在报纸中没有特色的区域。
 
+这场席卷新闻编辑部的旋风伤害了所有人，但这种伤害最大程度集中在报纸特色中最弱的板块。
+
+逻辑角度，前面强调负面消极信息，but后面强调转折，积极信息
+
+whirl  旋转  wind 风
+
+whirlwind  旋风
 
 
 
+be concentrated in 集中在
+
+areas  板块、领域
+
+where 引导定语从句
+
+least    最少的   most  最多的
+
+distinctive 有特色的 
+
+```
+Outside directors are supposed to serve as helpful, yet less biased， advisers on a firm's board.
+```
+
+外部董事被期望作为一个在公司董事会上有帮助，但是没有偏见的顾问。
 
 
 
