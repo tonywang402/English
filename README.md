@@ -1108,6 +1108,66 @@ Outside directors are supposed to serve as helpful, yet less biased， advisers 
 
 外部董事被期望作为一个在公司董事会上有帮助，但是没有偏见的顾问。
 
+外部董事理应在公司董事会扮演起有益的、更为公正的顾问角色。
+
+be supposed to do 被认为要求做某事，应该去做某事
+
+be expected to  应该做某事
+
+should 作者的主观意志
+
+helpful    有益的
+
+less biased   更为客观的
+
+
+
+```
+Although the Supreme Court of the United States had prohibited intentional racial discrimination in jury selection as early as the 1880 case of Strauder v. West Virginia, the practice of selecting so-called elite or blue-ribbon juries provided a convenient way around this and other antidiscrimination laws.
+```
+
+尽管美国最高法院早在1880年的西弗吉尼亚Strauder案中在陪审团选拔中就禁止蓄意的种族歧视，但是对所谓精英或者蓝领陪审团的选拔提供了一种便利的方法去绕过这个或其他的种族歧视法案。
+
+尽管美国最高法院早在1880年已经在Strauder对West Virginia这起案件当中就明令禁止陪审团选举方面的蓄意种族歧视，但是选举所谓精英或者蓝带陪审团的做法提供一条绕过这些反歧视法律方法。
+
+although 引导让步状语从句
+
+supreme  最高的
+
+prohibit （法律）禁止
+
+as early as  早在
+
+
+
+v. versus  针对，对抗
+
+so-called 所谓的
+
+blue-ribbon  蓝色绶带，
+
+
+
+```
+Given the current divorce rate of nearly 50%, that amounts to millions of cases in the United States every year---a virtual epidemic of failed conversation.
+```
+
+考虑到现在接近50%的离婚率，在美国每年有数以百万的离婚案件，这是一种失败沟通的虚拟传染病
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
