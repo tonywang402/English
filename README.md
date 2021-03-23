@@ -1144,7 +1144,7 @@ v. versus  针对，对抗
 
 so-called 所谓的
 
-blue-ribbon  蓝色绶带，
+blue-ribbon  蓝色绶带
 
 
 
@@ -1156,15 +1156,27 @@ Given the current divorce rate of nearly 50%, that amounts to millions of cases 
 
 
 
+```
+We have no more right to consume happiness without producing it than to consume wealth without producing it.
+```
+
+正如我们没有权利创造财富就享用幸福，我们没有权利创造幸福就享用幸福。
+
+不创造财富，就无权享用财富，不创造幸福，就无权享用幸福。
+
+no more   ...  than 正如什么不 同样什么也不  
+
+produce  根据语境翻译 
+
+consume  wealth  享用财富
 
 
 
+```
+l shall define him as an individual who has elected as his primary duty and pleasure in life the activity of thinking in Socratic way about moral problems. 
+```
 
-
-
-
-
-
+我将把他定义为一个把苏格拉底式思考道德问题作为人生首要职责和乐趣的人。
 
 
 
