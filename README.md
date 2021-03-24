@@ -1156,6 +1156,8 @@ Given the current divorce rate of nearly 50%, that amounts to millions of cases 
 
 
 
+## 3月23号
+
 ```
 We have no more right to consume happiness without producing it than to consume wealth without producing it.
 ```
@@ -1178,21 +1180,27 @@ l shall define him as an individual who has elected as his primary duty and plea
 
 我将把他定义为一个把苏格拉底式思考道德问题作为人生首要职责和乐趣的人。
 
+我会把知识分子定义为这样的人：他们会把用苏格拉底的方式思考道德问题这样的行为视作是自己人生当中首要的职责和乐趣。
+
+一般要把代词的指代对象翻译出来
+
+elect 后面接 人 翻译为选举 ；后面接物，表示为选择
+
+动宾分裂   elect  the activity 宾语 
+
+think about moral problems  思考道德问题
+
+搭配分裂 添加 in Socratic way 强调它  翻译的时候 状语要前置
 
 
 
 
 
+```
+Histories make men wise; poems witty; the mathematics subtle; natural philosophy deep; moral grave; logic and rhetoric able to contend.
+```
 
-
-
-
-
-
-
-
-
-
+历史让人智慧；诗歌让人机智；数学让人精细；自然哲学让人深邃；道德让人庄重；逻辑和修辞让人能够去辩论；
 
 
 
