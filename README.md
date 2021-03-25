@@ -1202,11 +1202,95 @@ Histories make men wise; poems witty; the mathematics subtle; natural philosophy
 
 历史让人智慧；诗歌让人机智；数学让人精细；自然哲学让人深邃；道德让人庄重；逻辑和修辞让人能够去辩论；
 
+历史使人变得智慧；诗歌使人变得机智；数学使人变得周密；自然哲学使人变得深刻；伦理使人变得庄重；逻辑学和修辞学使人变得能言善辩。
+
+平行句为了避免重复，后面的句子就省略了动宾
+
+wise 智慧的
+
+wisdom  智慧
+
+ 
+
+poem 诗歌
+
+poet  使人
 
 
 
+wit     智力
+
+witty  智力丰富的，机智的
 
 
 
+cs  词缀 表示学科
 
+mathematics  数学  缩写为math
+
+
+
+subtle   微妙的，细微的，引申为周密的
+
+
+
+nature  自然
+
+natural  自然的
+
+
+
+philosophy  哲学
+
+philosopher  哲学家
+
+
+
+moral  道德，伦理
+
+
+
+deep  （具体某物）深的；（思想）深刻的
+
+
+
+al 名词后缀，形容词后缀
+
+moral  n.道德、伦理   adj.道德的
+
+
+
+grave   n.坟墓  adj.严肃的，重大的
+
+
+
+ic 名词后缀  形容词后缀
+
+logic  逻辑；逻辑学
+
+rhetoric  修辞学 
+
+historic   历史的
+
+
+
+前缀 con    共同
+
+词根 tend  趋势  
+
+contend  竞争，争论
+
+make men  动宾短语  加形容词 做宾语补足语
+
+natural philosophy  自然哲学  
+
+able to contend 能言善辩
+
+
+
+```
+It’s not necessarily a bad thing, but depending on the school, it can be costly to make up credits after switching too late in the game. At Boston College, for example, you would have to complete an extra year were you to switch to the nursing school from another department.
+```
+
+这不一定就是件坏事，但是要看学校，在转学太迟要弥补学分会的代价就会很大。例如，在波士顿大学，如果你要从其他学院转到医学院，你就要完成额外的一年学习。
 
