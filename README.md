@@ -1294,3 +1294,63 @@ It’s not necessarily a bad thing, but depending on the school, it can be costl
 
 这不一定就是件坏事，但是要看学校，在转学太迟要弥补学分会的代价就会很大。例如，在波士顿大学，如果你要从其他学院转到医学院，你就要完成额外的一年学习。
 
+这不一定就是坏事，不过在某些学校，太晚换专业的话，要补学分得花很多钱。比如，在波士顿大学，若要从其他院系转到护理学院，得多上整整一年的课。
+
+for example 连接的两个句子，是例证句，后一句是对上一句的解释说明
+
+if you were to 对将来的虚拟  去掉if 将were提前
+
+depend on  依据什么来定  而言
+
+
+
+
+
+```
+Rather than pulling students back, a gap year pushes them ahead by preparing them for independence, new responsibilities and environmental changes──all things that first-year students often struggle with the most.
+```
+
+间隔年并不是让学生退缩，而是推动他们为为独立、新的责任感和环境的改变做准备，这些都是大一新生最苦恼的事情。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
