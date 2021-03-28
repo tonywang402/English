@@ -1312,11 +1312,39 @@ Rather than pulling students back, a gap year pushes them ahead by preparing the
 
 间隔年并不是让学生退缩，而是推动他们为为独立、新的责任感和环境的改变做准备，这些都是大一新生最苦恼的事情。
 
+间隔年并不会拖学生的后腿，而是让他们更能适应未来的独立生活、新的责任以及环境变化（这些往往都是新生最难应付的事情），从而促使学生进步。
+
+pull students back 拖学生后腿
+
+push students ahead 促使学生进步
+
+prepare students for independence 让学生为未来的独立生活做好准备
+
+struggle with sth. the most   很吃力地应对某事
+
+
+
+a gap year（主）pushes（谓）them（宾）ahead（方位状语）
+
+rather than  引导比较状语，表示与谓语动词相对的情形
+
+
+
+破折号之后的all things that...是同位语（加定语从句），对前面independence,new responsibilities and environmental changes作补充说明
+
+
+
+在that定语从句中，注意struggle with的用法，其逻辑宾语是前面的引导词that，即all things，后面的the most是程度副词much的最高级，表示struggle的程度
 
 
 
 
 
+```
+A different and not mutually exclusive prediction holds that the future will be a wasteland of a different sort, one characterized by purposelessness: Without jobs to give their lives meaning,people will simply become lazy and depressed.
+```
+
+一种不同并且不矛盾的预测认为未来将是另外一种荒芜：人们将会由于没有工作给予给他们生活的意义，变得懒惰和沮丧。
 
 
 
