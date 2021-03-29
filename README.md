@@ -1346,15 +1346,23 @@ A different and not mutually exclusive prediction holds that the future will be 
 
 一种不同并且不矛盾的预测认为未来将是另外一种荒芜：人们将会由于没有工作给予给他们生活的意义，变得懒惰和沮丧。
 
+另一种与上述有所不同但并不相悖的预测认为，未来的世界将会是另一种荒漠，其特点是漫无目的：由于没有任何工作赋予生活以意义，人们只会变得懒惰和沮丧。
+
+one 同位语  characterized by 后置定语 做wasteland的同位语
+
+characterized by 以什么为特点、特征
+
+翻译时要联系上下文
 
 
 
 
 
+```
+In a world in which I don’t have to work, I might feel rather different — perhaps different enough to throw himself into a hobby or a passion project with the intensity usually reserved for professional matters.
+```
 
-
-
-
+在一个我不必工作的世界里，我可能会感到非常不同，这种不同足以让自己投入到业余爱好或者激情项目中，而这种强度往往是专业水平所需要的。
 
 
 
