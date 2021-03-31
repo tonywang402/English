@@ -1368,19 +1368,29 @@ In a world in which I don’t have to work, I might feel rather different — pe
 
 
 
+```
+But it doesn’t necessarily follow from findings like these that a world without work would be filled with unease.
+```
+
+这些发现并不一定意味着不用工作的世界将充满忧虑。
 
 
 
+follow from  源自于
+
+A follow from B  前果后因
+
+not necessarily  不必然的，不一定的
+
+be filled with  充满
 
 
 
+```
+Also, some research suggests that the explanation for rising rates of mortality, mental-health problems, and addiction among poorly-educated, middle-aged people is a shortage of well-paid jobs.
+```
 
-
-
-
-
-
-
+此外，一些研究表明，在受教育程度低的中年人群体中，死亡率、心理健康问题和成瘾率上升问题的原因是缺乏高薪工作。
 
 
 
