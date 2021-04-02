@@ -1392,9 +1392,33 @@ Also, some research suggests that the explanation for rising rates of mortality,
 
 此外，一些研究表明，在受教育程度低的中年人群体中，死亡率、心理健康问题和成瘾率上升问题的原因是缺乏高薪工作。
 
+此外，一些研究表明，在受教育程度较低的中年人中，过早死亡、患有心理疾病以及沉溺于毒瘾比例不断上升的原因就是缺乏高薪工作。
+
+多重后置定语层层限定时，可以倒置翻译
+
+also 在这里表示逻辑的递进，翻译为此外
+
+the explanation for 对什么的解释，造成什么的原因
+
+the explanation is a shortage of well-paid jobs  原因就是缺乏高薪工作
+
+mortality  过早死亡
+
+mental-health problems  心理健康问题
+
+addiction  上瘾
+
+is shortage of  缺乏什么
 
 
 
+
+
+```
+Such visions are based on the downsides of being unemployed in a society built on the concept of employment.
+```
+
+这种设想是基于建立雇佣概念的社会中失业的负面影响。
 
 
 
