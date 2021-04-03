@@ -1420,7 +1420,31 @@ Such visions are based on the downsides of being unemployed in a society built o
 
 这种设想是基于建立雇佣概念的社会中失业的负面影响。
 
+上述设想所基于的前提是在一个以就业观念为基础的社会里人们失业时所面临的种种弊端。
+
+such 有具体所指
+
+visions 表示不切实际的想法、设想、幻想（作者一般不认同）
 
 
 
+be based on  建立在什么的基础上，基于什么的前提
+
+built on  建立 
+
+inside 里面
+
+outside  外面
+
+downside  物体的下面部分， 阴暗面、消极面、弊端、负面
+
+
+
+in a society 修饰 being unemployed 
+
+
+
+```
+At Roman Manufacturing, a maker of electrical transformers and welding equipment that his father co-founded in1980, Robert Roth keep a close eye on the age of his nearly 200 workers, five are retiring this year.
+```
 
