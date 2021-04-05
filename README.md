@@ -1445,6 +1445,7 @@ in a society 修饰 being unemployed
 
 
 ```
-At Roman Manufacturing, a maker of electrical transformers and welding equipment that his father co-founded in1980, Robert Roth keep a close eye on the age of his nearly 200 workers, five are retiring this year.
+At Roman Manufacturing, a maker of electrical transformers and welding equipment that his father co-founded in 1980, Robert Roth keep a close eye on the age of his nearly 200 workers, five are retiring this year.
 ```
 
+在Roman Manufacturing，是由Robert Roth和他的父亲在1980年共同创造的变压器和焊接设备供应商，他正在密切关注着接近200名的工人的年龄，其中5个人在今年退休。
