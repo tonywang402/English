@@ -1449,3 +1449,60 @@ At Roman Manufacturing, a maker of electrical transformers and welding equipment
 ```
 
 在Roman Manufacturing，是由Robert Roth和他的父亲在1980年共同创造的变压器和焊接设备供应商，他正在密切关注着接近200名的工人的年龄，其中5个人在今年退休。
+
+Roman Manufacturing是一家电力变压器及焊接设备生产商，由Robert Roth的父亲于1980年和他们合伙创建，Robert Roth如今对接近200名员工的年龄一直保持着密切的关注，其中五位将于今年退休离职。
+
+
+
+双逗号中间，同位语加后定，对相关名词进行补充说明，这个句子同位语后面接了双重后定
+
+逗号之前的at 引导了一个地点状语，修饰双逗号之后的主干信息，表示主干信息发生的地点背景
+
+
+
+
+
+electrical transformers 电力变压器
+
+welding equipment 焊接设备
+
+代词在翻译时 其指代的名词
+
+co-founded  合伙创建，共同创建
+
+keep a close eye on 对什么保持密切的关注
+
+retiring  形容词 表示即将退休的
+
+
+
+```
+If there is a role for government, it should really be getting involved in providing common goods —making sure there is space for playing fields and the money to pave tennis and netball courts, and encouraging the provision of all these activities in schools.
+```
+
+如果对于政府有准则，那应该是政府提供公共设施，包括确保有场地和资金去建设网球和篮球场地，鼓励这些活动在学校里展开。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
