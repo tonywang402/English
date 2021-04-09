@@ -1477,14 +1477,26 @@ retiring  形容词 表示即将退休的
 
 
 ```
-If there is a role for government, it should really be getting involved in providing common goods —making sure there is space for playing fields and the money to pave tennis and netball courts, and encouraging the provision of all these activities in schools.
+If there is a role for government, it should really be getting involved in providing common goods — making sure there is space for playing fields and the money to pave tennis and netball courts, and encouraging the provision of all these activities in schools.
 ```
 
 如果对于政府有准则，那应该是政府提供公共设施，包括确保有场地和资金去建设网球和篮球场地，鼓励这些活动在学校里展开。
 
+如果政府要发挥作用的话，它其实应该参与提供公共设施，一方面要确保有建设运动场地的空间以及用于建设网球场合无挡板篮球场的资金，另外一方面鼓励学校开展上述所有这些体育运动。
+
+if 引导了一个条件状语从句，it should 
+
+making sure ...  and  encouraging 两个并列的动名词短语，对getting involved in进行解释说明，一方面要确保，一方面要鼓励，就是参与提供的具体方式
+
+there is space and the money  空间和资金
 
 
 
+```
+There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining.
+```
+
+一个初出风头的人被鼓掌越过终点线，人们的喜悦之情不亚于顶级人才的闪耀。
 
 
 
