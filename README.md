@@ -1500,15 +1500,27 @@ There is as much joy over a puffed-out first-timer being clapped over the line a
 
 
 
+一位气喘吁吁的初次参与者在跨越终点线时得到掌声和喝彩由此产生的快乐和顶尖天才光芒四射时的表现得到快乐一样多。
+
+there is as  much joy over  ... as there is （much joy ) about
+
+有着一样多的快乐，某处有某物
+
+being clapped  被鼓掌   over the line 时间状语
+
+first-timer 第一次做某事的人，初次参与者
+
+a puffed-out 气喘吁吁的
+
+ top talent shining 顶尖的天才
 
 
 
+```
+The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad.
+```
 
-
-
-
-
-
+Parkrun现象起源于12个朋友，已经在英国和国外启发了400项活动。
 
 
 
