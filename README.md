@@ -1517,10 +1517,36 @@ a puffed-out 气喘吁吁的
 
 
 ```
-The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad.
+The Parkrun phenomenon began with a dozen friends and (it) has inspired 400 events in the UK and more (inspired) abroad.
 ```
 
 Parkrun现象起源于12个朋友，已经在英国和国外启发了400项活动。
+
+公园跑现象最初只有12个朋友一起，如今在英国却已引发400起类似的活动，在国外就更多了。
+
+and前面是过去式，后面是现在完成时，时间变换翻译的时候要有体现，一个少一个多，虽然是and 但是有对比的意味
+
+more 是代词 more events 
+
+abroad  和in the UK 相对应
+
+inspire  鼓舞，给予灵感
+
+began/start with 开始于
+
+end with  结束于
+
+event  体育赛事 
+
+```
+Tronick himself is concerned that the worries about kids’ use of screens are born out of an “oppressive ideology that demands that parents should always be interacting” with their children.
+```
+
+
+
+Tronick担心对于孩子们过渡使用屏幕的忧虑来源于父母与孩子之间是始终相互影响的沉重的意识形态。
+
+
 
 
 
