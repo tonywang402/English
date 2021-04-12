@@ -1576,9 +1576,11 @@ always be doing 表示强调，表示极为强烈的主观语气
 
 
 
+```
+It’s based on a somewhat fantasized,very white, very upper-middle-class ideology that says if you’re failing to expose your child to 30,000 words you are neglecting them.
+```
 
-
-
+这是基于一种不切实际的、非常白人的、非常中高阶级的意识形态，就是如果你不能和你的孩子沟通30000个单词，那么你就是在忽略他们。
 
 
 
