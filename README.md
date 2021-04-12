@@ -1539,12 +1539,42 @@ end with  结束于
 event  体育赛事 
 
 ```
-Tronick himself is concerned that the worries about kids’ use of screens are born out of an “oppressive ideology that demands that parents should always be interacting” with their children.
+Tronick himself is concerned that the worries about kids’ use of screens are born out of an “oppressive ideology (that demands that parents (should) always be interacting” with their children).
 ```
 
-
-
 Tronick担心对于孩子们过渡使用屏幕的忧虑来源于父母与孩子之间是始终相互影响的沉重的意识形态。
+
+Tronick本人担心对于孩子们使用电子产品的种种担忧是源自于一种压抑性的意识形态，这种意识形态要求父母们应该与自己的子女时时刻刻保持交流。
+
+
+
+himself 反身代词 加强语气的作用 
+
+
+
+be concerned that\about 
+
+be sure that\about 
+
+be afraid that\about 
+
+形容词做表语，that引导的宾语从句
+
+
+
+screens  带屏幕的电子产品 
+
+be born out of  （物）源自于，起源于   (人)出生于
+
+
+
+oppressive 压抑性的
+
+ideology  思想形态
+
+always be doing 表示强调，表示极为强烈的主观语气
+
+
 
 
 
