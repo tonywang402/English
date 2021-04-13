@@ -1576,11 +1576,45 @@ always be doing 表示强调，表示极为强烈的主观语气
 
 
 
+## 4月12号
+
 ```
-It’s based on a somewhat fantasized,very white, very upper-middle-class ideology that says if you’re failing to expose your child to 30,000 words you are neglecting them.
+It’s based on a somewhat fantasized,very white, very upper-middle-class ideology (that says if you’re failing to expose your child to 30,000 words you are neglecting them).
 ```
 
 这是基于一种不切实际的、非常白人的、非常中高阶级的意识形态，就是如果你不能和你的孩子沟通30000个单词，那么你就是在忽略他们。
+
+它所基于意识形态有点理想化、及其符合白人和中上层阶级观念，这种意识形态认为如果你未能让自己的孩子接触到3万个词汇，你就是忽略了他们。
+
+It's based on a ideology. 它基于这样一种意识形态。
+
+ideology 前有三个修饰语，后有长修饰语，前面的修饰语往后甩，后面的分开翻译
+
+
+
+somewhat 有点、有些
+
+fantasized 不切实际的、幻想的、理想化的
+
+very white  极具白人特色的
+
+upper-middle-class 中上层阶级的
+
+
+
+that 引导定语从句，相当于一个形容词
+
+that做主语，says 谓语  that 引导宾语从句 省略了that
+
+say 主语是观点可以翻译为认为
+
+fail to do 
+
+```
+She found that mothers who used devices during the exercise started 20 percent fewer verbal and 39 percent fewer nonverbal interactions with their children.
+```
+
+她发现在锻炼时使用器械的母亲与孩子在口头上的交流减少了20%，非语言交流减少了39%。
 
 
 
