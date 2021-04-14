@@ -1611,10 +1611,38 @@ say 主语是观点可以翻译为认为
 fail to do 
 
 ```
-She found that mothers who used devices during the exercise started 20 percent fewer verbal and 39 percent fewer nonverbal interactions with their children.
+She found that mothers (who used devices during the exercise) started 20 percent fewer verbal and 39 percent fewer nonverbal interactions with their children.
 ```
 
 她发现在锻炼时使用器械的母亲与孩子在口头上的交流减少了20%，非语言交流减少了39%。
+
+她发现在训练期间使用电子设备的母亲与孩子进行语言交流减少了20%，非语言交流减少了39%。
+
+devices  （科研）装置、（生活中）电子设备
+
+exercise  训练
+
+start interaction with  进行交流
+
+20 percent fewer  翻译为 减少了20%
+
+
+
+
+
+```
+“Tech is designed to really suck you in,” says Jenny Radesky in her study of digital play, “and digital products are there to promote maximal engagement.”
+```
+
+“技术被设计成把你困住”，Jenny Radesky 在她的数字play的研究中说到，“电子产品会提升最大参与度”
+
+
+
+
+
+
+
+
 
 
 
