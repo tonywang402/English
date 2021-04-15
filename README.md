@@ -1636,17 +1636,39 @@ start interaction with  进行交流
 
 “技术被设计成把你困住”，Jenny Radesky 在她的数字play的研究中说到，“电子产品会提升最大参与度”
 
+Jenny Radesky在其有关数字娱乐研究中说到，科技的设计目的就是要把你真正吸引进去，（因此）数字产品就是要最大程度提高你的参与度。
+
+引述倒装，引述一个人的原话，并用到了这个人名字，并放置引述内容的中间或者后面，通常要采用倒装
+
+但是代词不能倒装，用的he she  这样就不能倒装
 
 
 
+and 前后信息虽然隔离，但是要关联在一起，即是并列的关系，但又是因果逻辑
 
 
 
+suck （嘴巴）吸 吮
+
+suck sb in  把某人吸进去，比喻表达
 
 
 
+be designed to 目的是 
+
+are there to  目的是
+
+engagement 参与度
+
+promote engagement 促进参与度 
 
 
+
+```
+Today, widespread social pressure to immediately go to college in conjunction with increasingly high expectations in a fast-moving world often causes students to completely overlook the possibility of taking a gap year.
+```
+
+如今，普遍的社会压力很快进入到大学以及加上在快速变化世界中的不断增长的高期待往往造成学生完全忽视了参加间隔年的可能性。
 
 
 
