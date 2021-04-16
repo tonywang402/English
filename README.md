@@ -1665,10 +1665,30 @@ promote engagement 促进参与度
 
 
 ```
-Today, widespread social pressure to immediately go to college in conjunction with increasingly high expectations in a fast-moving world often causes students to completely overlook the possibility of taking a gap year.
+Today, (widespread) (social) pressure (to immediately go to college) in conjunction with (increasingly high) expectations (in a fast-moving world) often causes students to completely overlook the possibility of taking a gap year.
 ```
 
 如今，普遍的社会压力很快进入到大学以及加上在快速变化世界中的不断增长的高期待往往造成学生完全忽视了参加间隔年的可能性。
+
+如今，高中毕业后即刻入读大学这一普遍的社会压力，加之日新月异的世界对学生越来越高的要求，往往导致学生完全忽视选择间隔年这一可能性。
+
+in conjunction with \ along with \ together with \combine with  和 以及 ，但是不等同and，这个语义上的连接，不是语法的连接
+
+overlook  完全忽视
+
+
+
+```
+Tronick believes that just because a child isn’t learning from the screen doesn’t mean there’s no value to it —particularly if it gives parents time to have a shower, do housework or simply have a break from their child.
+```
+
+Tronick相信仅是因为孩子不能从电子产品那里学到东西就意味着这没有价值，如果它能够给父母有一个短暂的时间去做做家务或者就是从孩子那里简单的摆脱。
+
+
+
+
+
+
 
 
 
