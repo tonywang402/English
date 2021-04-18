@@ -1700,7 +1700,11 @@ have a break from  暂时离开，从什么中暂停
 
 
 
+```
+Though often viewed as a problem for western states, the growing frequency of wildfires is a national concern because of its impact on federal tax dollars, says Professor Max Moritz, a specialist in fire ecology and management.
+```
 
+尽管山火在西部各州被经常视为问题，但是日趋频繁的发生由于影响到了联邦税务已经成为国家关注，Max Moritz说到，他是火灾生态和管理的专家。
 
 
 
