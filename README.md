@@ -1679,10 +1679,24 @@ overlook  完全忽视
 
 
 ```
-Tronick believes that just because a child isn’t learning from the screen doesn’t mean there’s no value to it —particularly if it gives parents time to have a shower, do housework or simply have a break from their child.
+Tronick believes that just because (that a child isn’t learning from the screen) doesn’t mean (that there’s no value to it) —particularly if it gives parents time to have a shower, do housework or simply have a break from their child.
 ```
 
 Tronick相信仅是因为孩子不能从电子产品那里学到东西就意味着这没有价值，如果它能够给父母有一个短暂的时间去做做家务或者就是从孩子那里简单的摆脱。
+
+Tronick之所以这么看，根本原因在于，孩子没有从电子产品上学到东西就不意味着它就毫无价值，尤其是当它能够让父母有个时间冲个淋浴、做些家务或者只是暂时离开孩子休息一下的时候。
+
+just because 引导原因状语从句，是对前面主干信息的解释	
+
+believes 后面的that是代词，指代是Tronick的观点内容
+
+particularly if = particularly when （用于举例）尤其当时是，特别是如果
+
+破折号常用于对前面的信息进行解释说明
+
+have a shower  做淋浴
+
+have a break from  暂时离开，从什么中暂停
 
 
 
