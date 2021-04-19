@@ -1701,12 +1701,42 @@ have a break from  暂时离开，从什么中暂停
 
 
 ```
-Though often viewed as a problem for western states, the growing frequency of wildfires is a national concern because of its impact on federal tax dollars, says Professor Max Moritz, a specialist in fire ecology and management.
+Though often viewed as a problem for western states, the (growing) frequency (of wildfires) is a national concern because of its impact on federal tax dollars, says Professor Max Moritz, a specialist in fire ecology and management.
 ```
 
 尽管山火在西部各州被经常视为问题，但是日趋频繁的发生由于影响到了联邦税务已经成为国家关注，Max Moritz说到，他是火灾生态和管理的专家。
 
+林火生态和消防管理专家Max Moritz表示，尽管日益频发的野火被常视为西部州的问题，但是由于它对联邦税收的巨大影响，目前已经成为一件举国关切的事情。
 
+
+
+though 引导的让步状语从句，省略的主谓it is ，这个从句是对后面主干信息的反向强调
+
+the...frequency（主）... is（系）a national concern（表）
+
+引述倒装，says Professor Max Moritz
+
+a specialist in  同位语加后定，解释说明其身份是一名专家
+
+
+
+be often viewed as 常常被视为
+
+western states 西部诸州
+
+a national concern 举国关切之事
+
+federal tax dollars  联邦税收
+
+fire ecology and management 林火生态与消防管理
+
+
+
+```
+There’s always a constant fear of falling behind everyone else on the socially perpetuated “race to the finish line,” whether that be toward graduate school, medical school or lucrative career.
+```
+
+不管是对于在校学生还是医学生或者赚钱的行业从事者，总是有一种对在社会上永久落后于他人的挥之不去的恐惧。
 
 
 
