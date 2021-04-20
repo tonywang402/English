@@ -1732,11 +1732,46 @@ fire ecology and management 林火生态与消防管理
 
 
 
+## 4月19日
+
 ```
-There’s always a constant fear of falling behind everyone else on the socially perpetuated “race to the finish line,” whether that be toward graduate school, medical school or lucrative career.
+There’s always a constant fear (of falling behind everyone else) on the (socially perpetuated) “race (to the finish line),”whether that be toward graduate school, medical school or lucrative career. 
 ```
 
 不管是对于在校学生还是医学生或者赚钱的行业从事者，总是有一种对在社会上永久落后于他人的挥之不去的恐惧。
 
+社会上永久延续着一场跑向终点的竞赛，无论这场竞赛是跑向研究生院、医学院、还是赚钱的职业，人们总有一种落于人后的担忧，且挥之不去。
 
 
+
+there be  on 某处有某物
+
+on the （socially perpetuated）race  (to the finish line)  在这样的一场竞赛中  
+
+perpetuated  被使得永久延续着的，存在着的
+
+
+
+whether  or 让步状语从句，对前面的race就行语气的加强和解释说明
+
+that be toward that指代race  toward 翻译为跑向 
+
+lucrative career 赚钱的行业
+
+
+
+there is  always a constant fear  总有一种担忧，挥之不去
+
+fear (of falling behind everyone else)  落于人后的担忧
+
+
+
+ 翻译的时候 重心要调整 
+
+
+
+```
+Studies from the United States and Australia show that students who take a gap year are generally better prepared for and perform better in college than those who do not.
+```
+
+来意美国和澳大利亚的学生显示出参加过间隔年的学生比没有参加过的人在大学里面通常准备和表现的更好。
