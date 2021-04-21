@@ -1775,3 +1775,16 @@ Studies from the United States and Australia show that students who take a gap y
 ```
 
 来意美国和澳大利亚的学生显示出参加过间隔年的学生比没有参加过的人在大学里面通常准备和表现的更好。
+
+美国和澳洲的研究表明，选择间隔年的学生通常比未选择间隔年的学生对大学生活准备更充分，在校的表现也更好。
+
+
+
+
+
+
+
+```
+Gap year experiences can lessen the blow when it comes to adjusting to college and being thrown into a brand new environment, making it easier to focus on academics and activities rather than acclimation blunders.
+```
+
