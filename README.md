@@ -1832,7 +1832,7 @@ acclimation 适应期
 But acknowledging fire’s inevitable presence in human life is an attitude crucial to developing the laws, policies,and practices that make it as safe as possible, she says.
 ```
 
-
+她说承认火灾在人类生活中不可避免会发生是一个关键的态度，它能够促使完善法律、政策、惯例，去确保尽可能的安全。
 
 
 
