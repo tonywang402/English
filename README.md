@@ -1790,17 +1790,47 @@ students (better prepared）for college and (perform better) in college (than) t
 Gap year experiences can lessen the blow when it comes to adjusting to college and being thrown into a brand new environment, making it easier to focus on academics and activities rather than acclimation blunders.
 ```
 
+[音频](https://mp.weixin.qq.com/mp/audio?_wxindex_=0&scene=104&__biz=MzA5MTY4Nzc1Nw==&mid=2653412841&idx=1&voice_id=MzA5MTY4Nzc1N18yNjUzNDEyODQw&sn=2f887cbbedf40ca898913d756bb377c6&uin=&key=&devicetype=Windows+10+x64&version=63020184&lang=zh_CN&ascene=1&session_us=gh_9baed7d5d3f7&fontgear=2)
+
 间隔年的经历可以在适应大学生活和进入一个全新的环境过程中减轻打击，它能够让学生更轻松聚焦于学业和活动，而不是犯错。
 
+间隔年的种种经历能够缓解学生在适应大学生活以及身陷全新环境之时所遇到的挫折，使他们更容易的专注于学业和学习活动，而非适应过程中所犯下种种错误。
+
+experiences lessen blow 
+
+when it comes to 时间状语
+
+making it easier to 现在分词短语做伴随状语
 
 
 
+less  较少的
+
+lessen  减缓、削弱
+
+blow  打击，引申为挫折 
+
+when it comes to  当涉及到，当谈论到 跟相关的方面和情景
+
+adjust to college 适应大学生活
+
+throw oneself into  被投掷、身陷
+
+brand new  全新的
+
+academic  （学生语境）学习，学业活动
+
+blunder 大错
+
+acclimate  适应
+
+acclimation 适应期
 
 
 
-
-
-
+```
+But acknowledging fire’s inevitable presence in human life is an attitude crucial to developing the laws, policies,and practices that make it as safe as possible, she says.
+```
 
 
 
