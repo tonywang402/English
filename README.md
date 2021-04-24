@@ -1829,14 +1829,22 @@ acclimation 适应期
 
 
 ```
-But acknowledging fire’s inevitable presence in human life is an attitude crucial to developing the laws, policies,and practices that make it as safe as possible, she says.
+But (acknowledging fire’s inevitable presence in human life) (is) an (attitude) (crucial to developing the laws, policies,and practices) (that make it as safe as possible), she says.
 ```
 
 她说承认火灾在人类生活中不可避免会发生是一个关键的态度，它能够促使完善法律、政策、惯例，去确保尽可能的安全。
 
+承认火灾在人类生活中必然存在，这一种态度，对于制定确保火灾尽可能安全的法律、政策以及惯例是至为关键的，她如是说道。
 
+crucial to 形容词短语做后置定语
 
+crucial to  对什么至关重要
 
+develop  发展、开发（土地）、制定（政策、法律）
+
+practice 实践、惯例
+
+代词没有引述倒装
 
 
 
