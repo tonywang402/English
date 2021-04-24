@@ -1832,6 +1832,8 @@ acclimation 适应期
 But (acknowledging fire’s inevitable presence in human life) (is) an (attitude) (crucial to developing the laws, policies,and practices) (that make it as safe as possible), she says.
 ```
 
+[音频](https://mp.weixin.qq.com/s/LOouFMu-oYpTDZSH1nylcQ)
+
 她说承认火灾在人类生活中不可避免会发生是一个关键的态度，它能够促使完善法律、政策、惯例，去确保尽可能的安全。
 
 承认火灾在人类生活中必然存在，这一种态度，对于制定确保火灾尽可能安全的法律、政策以及惯例是至为关键的，她如是说道。
@@ -1848,9 +1850,11 @@ practice 实践、惯例
 
 
 
+```
+Without question, manufacturing has taken a significant hit during recent decades, and further trade deals raise questions about whether new shocks could hit manufacturing.
+```
 
-
-
+毫无疑问，制造业已经在最近几十年经历了明显的打击，未来的商业贸易提出问题，是否会有新的打击。
 
 
 
