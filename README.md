@@ -1738,6 +1738,8 @@ fire ecology and management 林火生态与消防管理
 There’s always a constant fear (of falling behind everyone else) on the (socially perpetuated) “race (to the finish line),”whether that be toward graduate school, medical school or lucrative career. 
 ```
 
+[音频](https://mp.weixin.qq.com/s/1vB7fHVOWJoCWgff8QZRyg)
+
 不管是对于在校学生还是医学生或者赚钱的行业从事者，总是有一种对在社会上永久落后于他人的挥之不去的恐惧。
 
 社会上永久延续着一场跑向终点的竞赛，无论这场竞赛是跑向研究生院、医学院、还是赚钱的职业，人们总有一种落于人后的担忧，且挥之不去。
@@ -1851,14 +1853,47 @@ practice 实践、惯例
 
 
 ```
-Without question, manufacturing has taken a significant hit during recent decades, and further trade deals raise questions about whether new shocks could hit manufacturing.
+Without question, manufacturing has taken a significant hit during recent decades, and further trade deals raise questions (about whether new shocks could hit manufacturing).
 ```
+
+[音频](https://mp.weixin.qq.com/s/UZmDql53ol-pkZErPe7bQw)
 
 毫无疑问，制造业已经在最近几十年经历了明显的打击，未来的商业贸易提出问题，是否会有新的打击。
 
+毋容置疑，制造业在最近几十年遭到了重创，且进一步的贸易协定也让人发问：新的冲击是否会再次打击制造业。
+
+本句话是and连接的并列句
+
+分句一的主干是：manufacturing（主） has taken （谓）a significant hit（宾）现在完成时
+
+分句二的主干是：further trade deals （主）raise （谓）questions（宾）
+ 
+
+分句一：
+
+开头without question 介词短语作评注性状语，表示作者对后面分句信息的主观评价
+
+during recent decades 介词短语做时间状语，表示该分句内容发生的时间背景
+
+分句二：
+
+括弧about 是介词短语作后置定语，修饰前面的question，表示具体什么方面的质疑或疑问
+
+significant  显著的 严重的
+
+take a hit  遭到打击
+
+trade deals  贸易协定
+
+raise question  引起问题
 
 
 
+```
+At a worktable inside the transformer plant, young Jason Stenquist looks flustered by the copper coils he’s trying to assemble and the arrival of two visitors.
+```
+
+在一个变压器的工作台上，年轻的Jason Stenquist看着很紧张，他正在尝试组装的铜线圈和到达的两个参观者。
 
 
 
