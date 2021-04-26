@@ -1867,7 +1867,7 @@ Without question, manufacturing has taken a significant hit during recent decade
 分句一的主干是：manufacturing（主） has taken （谓）a significant hit（宾）现在完成时
 
 分句二的主干是：further trade deals （主）raise （谓）questions（宾）
- 
+
 
 分句一：
 
@@ -1890,10 +1890,40 @@ raise question  引起问题
 
 
 ```
-At a worktable inside the transformer plant, young Jason Stenquist looks flustered by the copper coils he’s trying to assemble and the arrival of two visitors.
+(At a worktable) (inside the transformer plant), young Jason Stenquist looks flustered by the copper coils (he’s trying to assemble) and the arrival (of two visitors).
 ```
 
+[音频](https://mp.weixin.qq.com/s/ebsm3jvnfFPUgw4VED2uMQ)
+
 在一个变压器的工作台上，年轻的Jason Stenquist看着很紧张，他正在尝试组装的铜线圈和到达的两个参观者。
+
+在变压器厂房里的一个工作台旁，年轻的Jason Stenquist面对正要费力组装的铜线圈和两位客人的到访显得有些慌乱紧张。
+
+Jason Stenquist（主）looks（系）flustered （表）
+
+句首的at 介词短语作地点状语，表示后面主干信息发生的地点背景；inside引导是一个后置定语
+
+by the copper coils ... and the arrival 介词短语作原因状语，表示前面系表内容发生的原因
+
+括弧he's 是省略引导词的that定语从句，表示具体什么状态的铜线圈
+
+句尾括弧of ...  是介词短语作后置定语，修饰前面的arrival ，表示具体什么人到访
+
+look flustered by 面对... 显得慌乱紧张
+
+the arrival of two visitors 两位客人的到访
+
+
+
+```
+But to win over these young workers, manufacturers have to clear another major hurdle: parents, who lived through the worst US economic downturn since the Great Depression, telling them to avoid the factory. 
+```
+
+为了争取到这些年轻的工人，供应商必须去清除另外一个主要的障碍：经历过自大萧条以来美国经济最糟糕的时期的父母，会告诉他们远离工厂。
+
+
+
+
 
 
 
