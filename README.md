@@ -1916,14 +1916,32 @@ the arrival of two visitors 两位客人的到访
 
 
 ```
-But to win over these young workers, manufacturers have to clear another major hurdle: parents, who lived through the worst US economic downturn since the Great Depression, telling them to avoid the factory. 
+But to win over these young workers, manufacturers have to clear another major hurdle: parents, who lived through the (worst US economic) downturn (since the Great Depression), telling them to avoid the factory. 
 ```
+
+[音频](https://mp.weixin.qq.com/s/DefeMaJV1gEHZqZ0tGs6OA)
 
 为了争取到这些年轻的工人，供应商必须去清除另外一个主要的障碍：经历过自大萧条以来美国经济最糟糕的时期的父母，会告诉他们远离工厂。
 
+但是要获得这些年轻人的垂青，制造商们还得清除另一大障碍：家长，他们都经历过大萧条以来美国最严重的经济衰退，会告诉孩子们远离工厂。
 
+manufacturers（主）have to clear （谓）another major hurdle （宾）
 
+to 不定式短语作目的状语，表示后面主干内容发生的目的
 
+：之后是对another major hurdle的解释信息，parents是another major hurdle的同位语 其后的内容是关系代词who引导的非限制性定语从句，对parents作补充说明
 
+主语是who 谓语是lived through 宾语是the downtown
 
+since介词短语作后置定语 （worst US economic）共同完成对downtown的限定说明
+
+句尾部分telling 是现在分词短语作伴随状语，修饰前面的从句谓语lived through 表示其伴随状况
+
+the worst economic downturn 最严重的经济衰退
+
+since the Great Depression自大萧条以来
+
+live through the economic downturn 经历过经济衰退
+
+tell sb. to avoid... 告诉某人远离... 
 
