@@ -1732,7 +1732,7 @@ fire ecology and management 林火生态与消防管理
 
 
 
-## 4月19日
+## 4月19日到4月24日
 
 ```
 There’s always a constant fear (of falling behind everyone else) on the (socially perpetuated) “race (to the finish line),”whether that be toward graduate school, medical school or lucrative career. 
@@ -1947,7 +1947,7 @@ tell sb. to avoid... 告诉某人远离...
 
  
 
-## 4月26日
+## 4月26日到5月1日
 
 ```
 “They blame it on the manufacturing recession,” says Birgit Klohs, (chief executive) of The Right Place, a business development agency (for western Michigan).
@@ -1987,7 +1987,7 @@ says Birgit Klohs 是引述倒装形式
 
 agency是前面The Right Place的同位语，补充说明该机构的性质，其后的括弧表达for 是介词短语作后置定语，表示该机构服务的地域
 
-**要点**
+**要点**、
 
 修饰语往前翻译
 
@@ -1995,9 +1995,19 @@ agency是前面The Right Place的同位语，补充说明该机构的性质，�
 
 
 
+```
+Over the past decade, the focus has been on climate change — how the warming of the Earth from greenhouse gases is leading to conditions that worsen fires.
+```
 
+**短语词汇**
 
+the focus has been on  关注点一直都在....上
 
+the warming of the Earth 地球变暖
+
+leading to condition that... 导致...的环境
+
+worsen fires 使火灾恶化
 
 
 
