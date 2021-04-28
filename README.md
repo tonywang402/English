@@ -1943,5 +1943,87 @@ since the Great Depression自大萧条以来
 
 live through the economic downturn 经历过经济衰退
 
-tell sb. to avoid... 告诉某人远离... 
+tell sb. to avoid... 告诉某人远离...
+
+ 
+
+## 4月26日
+
+```
+“They blame it on the manufacturing recession,” says Birgit Klohs, (chief executive) of The Right Place, a business development agency (for western Michigan).
+```
+
+[音频](https://mp.weixin.qq.com/s/DtZLmMngBt6TLqrxlRDFhg)
+
+Birgit Klohs说：“他们把问题归咎于供应商的衰退”，他是Right Place的总裁，这是一家西密西根州的商业发展机构。
+
+“他们把这归咎于制造业的衰退”，密歇根州西部的一家商业开发机构The Right Place的总裁Birgit Klohs如是说到。
+
+**词汇短语**
+
+blame ... on ... 把什么归咎于
+
+the manufacturing recession 制造业的衰退
+
+chief executive  总裁
+
+a business development agency 一家商业开发机构
+
+
+
+**主干处理**：
+
+they （主）blame （谓）it （宾）
+
+后面的on 介词短语作原因状语，表示blame it的原因
+
+也可直接把blame on 视为固定搭配 （把...归咎于...）
+
+**枝叶处理**
+
+says Birgit Klohs 是引述倒装形式
+
+括弧的chief executive 是前面Birgit Klohs的同位语，补充解释其身份，后面的介词短语作后置定语，表示具体哪家机构的
+
+agency是前面The Right Place的同位语，补充说明该机构的性质，其后的括弧表达for 是介词短语作后置定语，表示该机构服务的地域
+
+**要点**
+
+修饰语往前翻译
+
+同位语表达 写作也可以借鉴
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
