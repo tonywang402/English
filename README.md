@@ -1999,6 +1999,8 @@ agency是前面The Right Place的同位语，补充说明该机构的性质，�
 Over the past decade, the focus has been on climate change — how the warming of the Earth from greenhouse gases is leading to conditions that worsen fires.
 ```
 
+[音频](https://mp.weixin.qq.com/s/M96s4nWrnbCNes_wmOMstg)
+
 **短语词汇**
 
 the focus has been on  关注点一直都在....上
