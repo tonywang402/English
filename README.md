@@ -2009,15 +2009,29 @@ leading to condition that... 导致...的环境
 
 worsen fires 使火灾恶化
 
+**主干处理**：
 
+the focus （主）has been on （谓）climate change （宾）
 
+warming is leading to conditions
 
+**枝叶处理**
 
+Over the past decade  over引导时间状语
 
+how 引导了从句 how （引导词）the warming (主) is leading to （谓） conditions (宾)
 
+of the earth 介词短语作后置定语，表示具体什么事物的变暖
 
+from greenhouse gases 介词短语作后置定语，表示具体源于什么原因的变暖
 
+句尾括弧表达that是定语从句，修饰限定condition，表示具体那种环境
 
+**翻译**
+
+在过去几十年，人们的关注点一直都在气候变化，温室气体导致的全球气候变暖如何导致火灾恶化。
+
+在过去的十年，（人们的）关注点一直都在气候变化上——即，源于温室气体的地球变暖如何导致了火灾恶化的环境。
 
 
 
