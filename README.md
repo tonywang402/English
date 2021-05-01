@@ -2037,13 +2037,23 @@ from greenhouse gases 介词短语作后置定语，表示具体源于什么原�
 
 
 
+```
+Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or determined students away.
+```
 
+[音频](https://mp.weixin.qq.com/s/zUQypC1GMvtIDuL-0qqStA)
 
+**短语词汇**
 
+introductory classes 入门课程
 
+introductory computer-science classes 计算机科学入门课程
 
+be packed to the brim安排得满满
 
+drive away 赶走，驱离
 
+less-experienced or determined students经验不足或意志力薄弱的学生
 
 
 
