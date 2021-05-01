@@ -2057,9 +2057,29 @@ less-experienced or determined students经验不足或意志力薄弱的学生
 
 
 
+**本句主干**
+
+students （主）benefit （谓）from  learning something about coding（宾）
+
+
+
+**枝叶处理**
+
+before they get to college  时间状语，修饰前面的learning
+
+where 引导非限制性定语从句 引申为原因状语
+
+which 非限制性定语从句，修饰前面的内容，前面的整个句子
+
+
+
+
+
 **翻译**
 
 学生们在上大学前了解一些编程知识同样会从中获益，（因为）在大学，计算机科学入门课程排的很满，这会令经验不足或意志力薄弱的学生望而却步。
+
+
 
 
 
