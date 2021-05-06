@@ -2082,8 +2082,96 @@ which 非限制性定语从句，修饰前面的内容，前面的整个句子
 
 
 ```
-The heightened alert followed an emergency meeting with flu experts in Geneva that assembled after a sharp rise in cases in Australia , and rising numbers in Britain , Japan , Chile and elsewhere .
+The heightened alert followed an emergency meeting (with flu experts) (in Geneva) (that assembled) after a sharp rise in cases in Australia , and rising numbers in Britain , Japan , Chile and elsewhere .
 ```
 
 [音频](https://mp.weixin.qq.com/s/FC-CThrOyXm1MyDezjarww)
+
+**短语词汇**
+
+heighten  提高，增强
+
+expert  专家
+
+assemble  聚集
+
+a sharp rise in cases  病例的剧烈增长
+
+
+
+**本句主干**
+
+alert （主） followed （谓）meeting （宾）
+
+follow 在... 之后发生了什么事情
+
+
+
+**枝叶处理**
+
+with 参会人员，in 参会地点
+
+that 后置定语，修饰专家
+
+after 时间状语，在发生了什么事情之后 ，可以引申理解为原因
+
+and 并列表达，和after并列   流感数量增加 
+
+
+
+**翻译**
+
+根据流感专家召开的紧急会议，Geneva加强对聚集的警惕，在澳大利亚病例数目的急剧上升以及英国、日本、智利，以及其他地方的上升
+
+澳大利亚病例数的急剧增加以及英国、日本、智利和其他地方患病人数的不断增加使得流感专家齐聚日内瓦。在此紧急会议之后，警戒级别进一步提高。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
