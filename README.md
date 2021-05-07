@@ -2127,11 +2127,41 @@ and 并列表达，和after并列   流感数量增加
 
 
 
+```
+But the epidemic is "moderate" in severity, according to Margaret Chan, the organization’s director general, with the overwhelming majority of patients experiencing only mild symptoms and a full recovery, often in the absence of any medical treatment.
+```
+
+**短语积累**
+
+be moderate in severity   严重性适中
+
+according to 据...所说
+
+director general  总干事
+
+the overwhelming majority of 绝大多数的
+
+mild symptom  轻微的症状
+
+in the absence of 在缺乏....的情况下
+
+medical treatment  医疗
+
+
+
+**主干信息**
 
 
 
 
 
+**枝叶处理**
+
+
+
+
+
+**翻译**
 
 
 
