@@ -2133,6 +2133,8 @@ But the epidemic is "moderate" in severity, according to Margaret Chan, the orga
 
 **短语积累**
 
+epidemic  瘟疫
+
 be moderate in severity   严重性适中
 
 according to 据...所说
@@ -2151,19 +2153,29 @@ medical treatment  医疗
 
 **主干信息**
 
-
+the epidemic（主） is （系）moderate（表） 
 
 
 
 **枝叶处理**
 
+in  范围状语
 
+according to   信息发出者  后面解释说明
+
+with 介词引导的独立主格结构，作原因状语
+
+and 是递进
+
+in the absence of 对 recovery 作补充说明
 
 
 
 **翻译**
 
+但是据组织总干事Margaret Chan说，瘟疫的严重程度适中，绝大多数的病人只是轻微的症状，在经常缺乏医疗的情况下，能够痊愈。
 
+但是在该组织总干事Margaret Chan看来，这场瘟疫在严重程度来讲是温和的，因为绝大多数患者只是经历了轻微的症状就得以痊愈，而且是在没有任何治疗的情况下。
 
 
 
