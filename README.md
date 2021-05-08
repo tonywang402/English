@@ -2183,6 +2183,8 @@ in the absence of 对 recovery 作补充说明
 More than three million doses were to be made available in early October 2009,though most of those initial doses were of the FluMist nasal spray type,which is not recommended for pregnant women,people over 50 or those with breathing difficulties,heart disease or several other problems.
 ```
 
+[音频](https://mp.weixin.qq.com/s/JuHpGOAYvgpViJnoDTnBgA)
+
 **短语积累**
 
 dose 药量；（药的）一剂
