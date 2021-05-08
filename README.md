@@ -2177,7 +2177,11 @@ in the absence of 对 recovery 作补充说明
 
 但是在该组织总干事Margaret Chan看来，这场瘟疫在严重程度来讲是温和的，因为绝大多数患者只是经历了轻微的症状就得以痊愈，而且是在没有任何治疗的情况下。
 
+## 5月7日到5月8日
 
+```
+More than three million doses were to be made available in early October 2009,though most of those initial doses were of the FluMist nasal spray type,which is not recommended for pregnant women,people over 50 or those with breathing difficulties,heart disease or several other problems.
+```
 
 
 
