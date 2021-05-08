@@ -2185,9 +2185,25 @@ More than three million doses were to be made available in early October 2009,th
 
 **短语积累**
 
+dose 药量；（药的）一剂
+
+initial doses  最初的疫苗
+
+nasal 鼻的  spray 喷雾、喷雾器、喷雾剂
+
+nasal spray type  喷鼻型
+
+**主干**
+
+doses（主） were to be made （谓）available （宾） 
 
 
 
+**枝叶**
+
+though 引导让步状语从句
+
+which 引导非限制性定语从句，修饰nasal spray type
 
 
 
