@@ -2225,9 +2225,23 @@ those + with 引导后置定语
 
 
 
+```
+Last month, Howard Schmidt, the nation’s  cyber-czar,offered the federal government a proposal to make the web a safer place—a “voluntary trusted identity” system that would be the high-tech equivalent of a physical key, a fingerprint and a photo ID card, all rolled into one.
+```
 
+[音频](https://mp.weixin.qq.com/s/ld0_t3EzI_f-qCrD-lE61Q)
 
+**短语积累**
 
+cyber-czar 互联网沙皇
+
+offer sb a proposal to do 想某人提交一份做什么提案
+
+high-tech equivalent 高科技等同物
+
+physical key 有形的钥匙
+
+a photo ID card 带照片的身份证
 
 
 
