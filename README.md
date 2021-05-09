@@ -2243,11 +2243,17 @@ physical key 有形的钥匙
 
 a photo ID card 带照片的身份证
 
+**主干**
+
+Howard Schmidt （主）offer（谓）a proposal （宾）to make the web a safer place （宾补）
 
 
 
 
 
+
+
+**枝叶**
 
 
 
