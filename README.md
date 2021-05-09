@@ -2241,6 +2241,8 @@ high-tech equivalent 高科技等同物
 
 physical key 有形的钥匙
 
+a “voluntary trusted identity” system “自愿身份认证 ”系统
+
 a photo ID card 带照片的身份证
 
 **主干**
@@ -2249,11 +2251,19 @@ Howard Schmidt （主）offer（谓）a proposal （宾）to make the web a safe
 
 
 
-
-
-
-
 **枝叶**
+
+the nation's cyber-czar 国家互联网沙皇 同位语
+
+扩折号之后 a system that 也是同位语 进行说明
+
+a fingerprint and a photo ID card, all rolled into one
+
+
+
+**翻译**
+
+上个月，国家互联网沙皇Howard Schmidt 向联邦政府提交了一个提案，目的是让互联网成为一个更安全的地方，建立一个自愿身份认证系统，将指纹、带照片的身份证全部包括进去，成为有形钥匙的高科技替代物。
 
 
 
