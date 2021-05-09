@@ -2235,7 +2235,7 @@ Last month, Howard Schmidt, the nation’s  cyber-czar,offered the federal gover
 
 cyber-czar 互联网沙皇
 
-offer sb a proposal to do 想某人提交一份做什么提案
+offer sb a proposal to do 想国家提交一份做什么提案
 
 high-tech equivalent 高科技等同物
 
@@ -2247,23 +2247,31 @@ a photo ID card 带照片的身份证
 
 **主干**
 
-Howard Schmidt （主）offer（谓）a proposal （宾）to make the web a safer place （宾补）
+Howard Schmidt （主）offer（谓）a proposal （宾）to make the web a safer place （后置定语）（目的状语）
 
 
 
 **枝叶**
 
-the nation's cyber-czar 国家互联网沙皇 同位语
+the nation's cyber-czar 全国互联网沙皇，解释说明
 
-扩折号之后 a system that 也是同位语 进行说明
+破折号之后 a system that 同位语加后定，建立一个系统 对proposal进行解释，翻译加词 打造
 
-a fingerprint and a photo ID card, all rolled into one
+equivalent 名词当做动词翻译
+
+a physical key, a fingerprint and a photo ID card, 
+
+all rolled into one  独立主格结构，作伴随状语，进行补充解释
+
+三者融合为一体
 
 
 
 **翻译**
 
 上个月，国家互联网沙皇Howard Schmidt 向联邦政府提交了一个提案，目的是让互联网成为一个更安全的地方，建立一个自愿身份认证系统，将指纹、带照片的身份证全部包括进去，成为有形钥匙的高科技替代物。
+
+上个月，全国互联网沙皇Howard Schmidt，向联邦政府提交了一份提案以加强网络安全，建立自愿身份认证系统，这一高科技的系统等同于把有形的钥匙、指纹以及带照片的身份证三者融合为一体。
 
 
 
