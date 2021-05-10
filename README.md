@@ -2283,13 +2283,30 @@ In effect, the approach would create a “walled garden” in cyberspace, with s
 
 [音频](https://mp.weixin.qq.com/s/_rKJvbEXB70nOLtrkH5FpA)
 
+**短语积累**
+
+in effect  事实上
+
+walled garden 带围墙的花园
+
+cyberspace   网络空间
 
 
 
+**主干**
+
+the approach （主）would create （谓）a "walled graden" （宾）
 
 
 
+**枝叶**
+
+with + 名词
+
+to 引导目的状语
 
 
 
+**翻译**
 
+事实上，这个方法将会在网络空间中创建一个“带围墙的花园”，这个花园周围有以建立信任感社区的可靠的邻居以及明亮路灯。
