@@ -2275,9 +2275,13 @@ all rolled into one  独立主格结构，作伴随状语，进行补充解释
 
 
 
+## 5月10日
 
+```
+In effect, the approach would create a “walled garden” in cyberspace, with safe “neighborhoods” and bright “streetlights” to establish a sense of a trusted community.
+```
 
-
+[音频](https://mp.weixin.qq.com/s/_rKJvbEXB70nOLtrkH5FpA)
 
 
 
