@@ -2275,7 +2275,7 @@ all rolled into one  独立主格结构，作伴随状语，进行补充解释
 
 
 
-## 5月10日
+## 5月10日到5月15日
 
 ```
 In effect, the approach would create a “walled garden” in cyberspace, with safe “neighborhoods” and bright “streetlights” to establish a sense of a trusted community.
@@ -2285,11 +2285,15 @@ In effect, the approach would create a “walled garden” in cyberspace, with s
 
 **短语积累**
 
-in effect  事实上
+in effect  事实上    本质含义是：作为结果，作为影响
+
+the approach  （人对事）应对处理的方法 方式 （人对人，人与物体）接近 
 
 walled garden 带围墙的花园
 
 cyberspace   网络空间
+
+in cyberspace   在互联网上 
 
 
 
@@ -2301,12 +2305,20 @@ the approach （主）would create （谓）a "walled graden" （宾）
 
 **枝叶**
 
-with + 名词
-
-to 引导目的状语
+with + 名词   to 引导结果  独立主格结构
 
 
 
 **翻译**
 
 事实上，这个方法将会在网络空间中创建一个“带围墙的花园”，这个花园周围有以建立信任感社区的可靠的邻居以及明亮路灯。
+
+事实上，这一方式将会在互联网上打造出一个“带围墙的花园”，它有着可靠的“邻居”以及明亮的“路灯”，会形成了彼此有信任感的社区。
+
+
+
+```
+Mr.Schmidt described it as a “voluntary ecosystem” in which “individuals and organizations can complete online transactions with confidence, trusting the identities of each other and the identities of the infrastructure on which the transaction runs”.
+```
+
+[音频](https://mp.weixin.qq.com/s/LWQCLeovk1Zpvig4sF83UA)
