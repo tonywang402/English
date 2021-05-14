@@ -2226,7 +2226,7 @@ those + with 引导后置定语
 
 
 ```
-Last month, Howard Schmidt, the nation’s  cyber-czar,offered the federal government a proposal to make the web a safer place—a “voluntary trusted identity” system that would be the high-tech equivalent of a physical key, a fingerprint and a photo ID card, all rolled into one.
+Last month, Howard Schmidt, the nation’s  cyber-czar,offered the federal government a proposal to make the web a safer place — a “voluntary trusted identity” system that would be the high-tech equivalent of a physical key, a fingerprint and a photo ID card, all rolled into one.
 ```
 
 [音频](https://mp.weixin.qq.com/s/ld0_t3EzI_f-qCrD-lE61Q)
@@ -2297,7 +2297,7 @@ in cyberspace   在互联网上
 
 
 
-**主干**
+**主干** 
 
 the approach （主）would create （谓）a "walled graden" （宾）
 
@@ -2322,3 +2322,25 @@ Mr.Schmidt described it as a “voluntary ecosystem” in which “individuals a
 ```
 
 [音频](https://mp.weixin.qq.com/s/LWQCLeovk1Zpvig4sF83UA)
+
+**短语积累**
+
+voluntary ecosystem 资源生态系统
+
+individuals and organization 个人和机构
+
+complete transaction with confidence 放心的完成交易
+
+**主干**
+
+Mr.Schmidt （主）described （谓）it （宾）as a “voluntary ecosystem”（宾补）
+
+**枝叶**
+
+in which 引导非限制定语从句
+
+individuals and organizations （主）can complete （谓）online transactions （宾）with confidence, trusting the identities（独立主格）
+
+**翻译**
+
+Mr.Schmidt 把它描述为“自愿生态系统”，这个系统个人和组织可以放心的完成在线交易，并能够信任双方以及交易平台的身份。
