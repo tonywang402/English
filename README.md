@@ -2325,7 +2325,7 @@ Mr.Schmidt described it as a “voluntary ecosystem” in which “individuals a
 
 **短语积累**
 
-voluntary ecosystem 资源生态系统
+voluntary ecosystem 自愿生态系统
 
 individuals and organization 个人和机构
 
@@ -2337,10 +2337,22 @@ Mr.Schmidt （主）described （谓）it （宾）as a “voluntary ecosystem�
 
 **枝叶**
 
-in which 引导非限制定语从句
+which 引导制定语从句
 
-individuals and organizations （主）can complete （谓）online transactions （宾）with confidence, trusting the identities（独立主格）
+individuals and organizations （主）can complete （谓）online transactions （宾）with confidence, trusting the identities
+
+on which 引导定语从句
 
 **翻译**
 
 Mr.Schmidt 把它描述为“自愿生态系统”，这个系统个人和组织可以放心的完成在线交易，并能够信任双方以及交易平台的身份。
+
+Schmidt先生将其描述为“自愿生态系统”，在这里个人和机构都可以放心得完成在线交易，信任彼此身份，也对交易进行的平台的身份充满信任。
+
+
+
+```
+It seems clear that such a scheme is an initiative push toward what would eventually be a compulsory Internet “driver’s license” mentality.
+```
+
+[音频](https://mp.weixin.qq.com/s/vcMj4oqzNYfQuBiAQM513g)
