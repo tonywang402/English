@@ -2356,3 +2356,37 @@ It seems clear that such a scheme is an initiative push toward what would eventu
 ```
 
 [音频](https://mp.weixin.qq.com/s/vcMj4oqzNYfQuBiAQM513g)
+
+**短语积累**
+
+it seems clear that 很明显
+
+an initiative push toward 朝着...的初步推动
+
+driver‘s license  驾照
+
+a compulsory Internet “driver‘s license”  一个强制性的互联网驾照
+
+mentality  思想，智力
+
+
+
+**主干**
+
+it seems clear that  
+
+it 是形式主语，that引导主语从句
+
+such a scheme (主) is （谓）an initiative push toward（宾）
+
+**枝叶**
+
+what 引导一个定语从句 
+
+what would be a mentality 
+
+
+
+**翻译**
+
+这样一个计划是朝着 建立一个最终强制互联网驾照的思想 初步推动是很明显的。
