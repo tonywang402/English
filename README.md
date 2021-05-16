@@ -2396,3 +2396,11 @@ what would eventually be a mentality
 这样一个计划是朝着 建立一个最终强制互联网驾照的思想 初步推动是很明显的。
 
 很明显，这一计划已经对朝着最终在互联网上实施驾照这一强制性的想法的迈出第一步。
+
+
+
+```
+The plan has also been greeted with skepticism by some computer security experts, who worry that the “voluntary ecosystem” envisioned by Mr.Schmidt would still leave much of the Internet vulnerable.
+```
+
+[音频](https://mp.weixin.qq.com/s/9tJxMjF0EE4OZv3DRDxIGA)
