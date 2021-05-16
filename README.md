@@ -2359,15 +2359,17 @@ It seems clear that such a scheme is an initiative push toward what would eventu
 
 **短语积累**
 
-it seems clear that 很明显
+it seems clear that 很明显，很清楚
 
-an initiative push toward 朝着...的初步推动
+scheme  计划（中性的）；阴谋诡计（负面的）
+
+an initiative push toward 朝着...的初步推动、第一步、开始的移步
 
 driver‘s license  驾照
 
 a compulsory Internet “driver‘s license”  一个强制性的互联网驾照
 
-mentality  思想，智力
+mentality  精神状态、思想，智力、想法
 
 
 
@@ -2381,12 +2383,16 @@ such a scheme (主) is （谓）an initiative push toward（宾）
 
 **枝叶**
 
-what 引导一个定语从句 
+what 引导名词性从句做toward的宾语
 
-what would be a mentality 
+what would eventually be a mentality 
+
+朝着最终....的想法
 
 
 
 **翻译**
 
 这样一个计划是朝着 建立一个最终强制互联网驾照的思想 初步推动是很明显的。
+
+很明显，这一计划已经对朝着最终在互联网上实施驾照这一强制性的想法的迈出第一步。
