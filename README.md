@@ -2415,5 +2415,20 @@ envisioned by  sb 由某人构思
 
 leave ... vulnerable 使...易受攻击的
 
+**主干**
+
+the plan （主）has been greeted （谓）with skepticism（宾）
 
 
+
+**枝叶**
+
+who 引导定语从句
+
+that 引导宾语从句
+
+envisioned by  sb 定语从句
+
+
+
+ 
