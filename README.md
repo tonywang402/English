@@ -2404,3 +2404,16 @@ The plan has also been greeted with skepticism by some computer security experts
 ```
 
 [音频](https://mp.weixin.qq.com/s/9tJxMjF0EE4OZv3DRDxIGA)
+
+**短语积累**
+
+be greeted with 迎来
+
+skepticism  质疑
+
+envisioned by  sb 由某人构思
+
+leave ... vulnerable 使...易受攻击的
+
+
+
