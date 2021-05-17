@@ -2446,3 +2446,36 @@ would 表示推测
 这个计划现在也在遭到一些电脑安全专家的质疑，他们担心由Schmidt先生构思的资源生态系统仍然将会使得大部分互联网遭到攻击。
 
 该计划也受到了一些计算机安全专家的质疑，他们担心Schmidt先生构想出的这一“自愿生态系统”仍然会让互联网在很大程度上遭到攻击。
+
+
+
+```
+This is now a question for Gloria Mackenzie,an 84-year-old widow who recently emerged from her small,tin-roofed house in Florida to collect the biggest undivided lottery jackpot in history.
+```
+
+[音频](https://mp.weixin.qq.com/s/zWdFLlg-NSVL21knA0NByw)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
