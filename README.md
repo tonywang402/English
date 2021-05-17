@@ -2351,6 +2351,8 @@ Schmidt先生将其描述为“自愿生态系统”，在这里个人和机构�
 
 
 
+:triangular_flag_on_post:
+
 ```
 It seems clear that such a scheme is an initiative push toward what would eventually be a compulsory Internet “driver’s license” mentality.
 ```
@@ -2398,6 +2400,8 @@ what would eventually be a mentality
 很明显，这一计划已经对朝着最终在互联网上实施驾照这一强制性的想法的迈出第一步。
 
 
+
+:triangular_flag_on_post:
 
 ```
 The plan has also been greeted with skepticism by some computer security experts, who worry that the “voluntary ecosystem” envisioned by Mr.Schmidt would still leave much of the Internet vulnerable.
