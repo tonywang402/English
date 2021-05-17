@@ -2407,30 +2407,38 @@ The plan has also been greeted with skepticism by some computer security experts
 
 **短语积累**
 
-be greeted with 迎来
+be greeted with  by  受到....问候迎来，问候
 
 skepticism  质疑
 
-envisioned by  sb 由某人构思
+envisioned by  sb 由某人构思，构想
 
 leave ... vulnerable 使...易受攻击的
 
+leave n adj  使某物处于某种状态
+
+vulnerable   易受攻击的，易受伤的
+
 **主干**
 
-the plan （主）has been greeted （谓）with skepticism（宾）
+the plan （主）has been（谓） greeted （宾）with skepticism（方式状语）
 
 
 
 **枝叶**
 
-who 引导定语从句
+who 引导非限制性定语从句
 
-that 引导宾语从句
+that 引导宾语从句，表示担心内容
 
-envisioned by  sb 定语从句
+envisioned by  sb 定语从句，修饰ecosystem
+
+would 表示推测
 
 
 
  **翻译**
 
 这个计划现在也在遭到一些电脑安全专家的质疑，他们担心由Schmidt先生构思的资源生态系统仍然将会使得大部分互联网遭到攻击。
+
+该计划也受到了一些计算机安全专家的质疑，他们担心Schmidt先生构想出的这一“自愿生态系统”仍然会让互联网在很大程度上遭到攻击。
