@@ -2455,13 +2455,35 @@ This is now a question for Gloria Mackenzie,an 84-year-old widow who recently em
 
 [音频](https://mp.weixin.qq.com/s/zWdFLlg-NSVL21knA0NByw)
 
+**短语积累**
+
+widow  寡妇
+
+emerge from 脱离
+
+tin-roofed  铁皮屋顶的
+
+lottery jackpot 彩票头奖
+
+collect the lottery jackpot 领取彩票头奖
+
+**主干**
+
+this （主语）is （谓语）a question （宾语）
 
 
 
+**枝叶**
+
+同位语加后定
+
+emerge from .... to do 
 
 
 
+**翻译**
 
+现在对于这位84岁的寡妇Gloria Mackenzie有个问题，她最近从在她佛罗里达的铁皮屋顶的小房子里脱离出来，去领取历史上最大的彩票头奖。
 
 
 
