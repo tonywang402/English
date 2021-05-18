@@ -2503,3 +2503,33 @@ If she hopes her new-found fortune will yield lasting feelings of fulfillment,sh
 
 [音频](https://mp.weixin.qq.com/s/F-tZsebuPqJwDEoAjZwZcA)
 
+**短语积累**
+
+new-found fortune  意外之财
+
+yield lasting feelings of fulfillment 产生持久的满足感
+
+could do worse than  最好
+
+**主干**
+
+she （主）could do worse than read （谓）Happy Money（宾） 
+
+**枝叶**
+
+if 引导条件状语从句
+
+**翻译**
+
+如果她希望自己的意外之财能够产生持久的满足感，那么她最好去读Elizabeth Dunn 和Michael Norton写的happy money
+
+
+
+
+
+
+
+
+
+
+
