@@ -2525,6 +2525,32 @@ if 引导条件状语从句
 
 
 
+```
+This slim volume is packed with tips to help wage slaves as well as lottery winners get the most “happiness bang for your buck.”
+```
+
+[音频](https://mp.weixin.qq.com/s/KA-HRsLaClvPwqhTWY-bfA)
+
+**短语**
+
+
+
+**主干**
+
+
+
+
+
+**枝叶**
+
+
+
+
+
+**翻译**
+
+
+
 
 
 
