@@ -2457,25 +2457,31 @@ This is now a question for Gloria Mackenzie,an 84-year-old widow who recently em
 
 **短语积累**
 
-widow  寡妇
+widow  寡妇、孤寡老妇人
 
-emerge from 脱离
+emerge from 脱离（对不好处境）、从哪里出现
 
-tin-roofed  铁皮屋顶的
+tin 锡 白的
+
+tin-roofed  铁皮屋顶的、铁皮屋
+
+lot 阄  lottery 彩票
 
 lottery jackpot 彩票头奖
 
+undivided  为分割的，独享的、独中的
+
 collect the lottery jackpot 领取彩票头奖
+
+
 
 **主干**
 
-this （主语）is （谓语）a question （宾语）
-
-
+this （主语）is （系）a question （表语）for （范围状语）
 
 **枝叶**
 
-同位语加后定
+同位语加后定，解释Gloria Mackenzie身份
 
 emerge from .... to do 
 
@@ -2483,9 +2489,9 @@ emerge from .... to do
 
 **翻译**
 
-现在对于这位84岁的寡妇Gloria Mackenzie有个问题，她最近从在她佛罗里达的铁皮屋顶的小房子里脱离出来，去领取历史上最大的彩票头奖。
+Gloria Mackenzie这位84岁的寡妇当面就面临这个问题，她最近从在她佛罗里达的铁皮屋顶的小房子里脱离出来，去领取历史上最大的彩票头奖。
 
-
+Gloria Mackenzie这位84岁的老妇人当前就面临这个问题，她最近离开自己那座位于佛罗里达州的小铁皮屋，去领取她独中的美国历史最大的彩票头奖。
 
 
 
