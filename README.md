@@ -2498,18 +2498,28 @@ Gloria Mackenzie这位84岁的老妇人当前就面临这个问题，她最近�
 
 
 ```
-If she hopes her new-found fortune will yield lasting feelings of fulfillment,she could do worse than read Happy Money by Elizabeth Dunn and Michael Norton.
+If she hopes (that) her new-found fortune will yield lasting feelings of fulfillment,she could do worse than read Happy Money by Elizabeth Dunn and Michael Norton.
 ```
 
 [音频](https://mp.weixin.qq.com/s/F-tZsebuPqJwDEoAjZwZcA)
 
 **短语积累**
 
-new-found fortune  意外之财
+new adv 和found构成复合形容词
+
+new-found fortune  意外之财，新发现的财富，新到手的财富
+
+yield to 屈服于
+
+yield 产生 
+
+fulfillment  使得满足，实现、完成
 
 yield lasting feelings of fulfillment 产生持久的满足感
 
-could do worse than  最好
+could do worse than  最好，相比于做某事，只能做的更糟
+
+could do better than 最好不要做
 
 **主干**
 
@@ -2517,11 +2527,15 @@ she （主）could do worse than read （谓）Happy Money（宾）
 
 **枝叶**
 
-if 引导条件状语从句
+if 引导条件状语从句，一般用一般时表示将来
+
+其中will 是hope 之后that从句中的谓语动词
 
 **翻译**
 
 如果她希望自己的意外之财能够产生持久的满足感，那么她最好去读Elizabeth Dunn 和Michael Norton写的happy money
+
+如果她希望新到手的财富在将来能够产生持久的满足感，那么她最好读一下由Elizabeth Dunn 和Michael Norton合著的快乐消费。
 
 
 
@@ -2533,23 +2547,27 @@ This slim volume is packed with tips to help wage slaves as well as lottery winn
 
 **短语**
 
+slim volume 薄薄的书
 
+be packed with 充满
+
+wage slave  工薪族
+
+lottery winner 暴发户
 
 **主干**
 
-
-
-
+This slim volume （主）is （系） packed （表）with tips
 
 **枝叶**
 
+to 后置定语
 
-
-
+help sb do
 
 **翻译**
 
-
+这本薄薄的书给出了种种诀窍去帮助工薪族和暴发户去获得消费带来的最大幸福
 
 
 
