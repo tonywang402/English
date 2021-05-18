@@ -2317,6 +2317,8 @@ with + 名词   to 引导结果  独立主格结构
 
 
 
+:triangular_flag_on_post:
+
 ```
 Mr.Schmidt described it as a “voluntary ecosystem” in which “individuals and organizations can complete online transactions with confidence, trusting the identities of each other and the identities of the infrastructure on which the transaction runs”.
 ```
@@ -2447,7 +2449,7 @@ would 表示推测
 
 该计划也受到了一些计算机安全专家的质疑，他们担心Schmidt先生构想出的这一“自愿生态系统”仍然会让互联网在很大程度上遭到攻击。
 
-
+:triangular_flag_on_post:
 
 ```
 This is now a question for Gloria Mackenzie,an 84-year-old widow who recently emerged from her small,tin-roofed house in Florida to collect the biggest undivided lottery jackpot in history.
