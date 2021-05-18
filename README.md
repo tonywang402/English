@@ -2497,15 +2497,9 @@ Gloria Mackenzie这位84岁的老妇人当前就面临这个问题，她最近�
 
 
 
+```
+If she hopes her new-found fortune will yield lasting feelings of fulfillment,she could do worse than read Happy Money by Elizabeth Dunn and Michael Norton.
+```
 
-
-
-
-
-
-
-
-
-
-
+[音频](https://mp.weixin.qq.com/s/F-tZsebuPqJwDEoAjZwZcA)
 
