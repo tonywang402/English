@@ -2547,13 +2547,25 @@ This slim volume is packed with tips to help wage slaves as well as lottery winn
 
 **短语**
 
+volume 音量、书量	
+
 slim volume 薄薄的书
 
-be packed with 充满
+be packed with 充满、塞满、挤满
 
-wage slave  工薪族
+wage slave  工薪族		
 
-lottery winner 暴发户
+lottery winners 彩票中奖者（暴发户）
+
+as well as 和 以及
+
+bang  巨响
+
+happiness bang 幸福响声
+
+buck  美元（美语） 
+
+the most “happiness bang for your buck" 让自己的钱获取最大的幸福
 
 **主干**
 
@@ -2561,15 +2573,15 @@ This slim volume （主）is （系） packed （表）with tips
 
 **枝叶**
 
-to 后置定语
+to 不定式to短语作后置定语
 
-help sb do
+help sb do 帮助某人做某事
 
 **翻译**
 
 这本薄薄的书给出了种种诀窍去帮助工薪族和暴发户去获得消费带来的最大幸福
 
-
+这本薄壁的小册子充满了种种小窍门，来帮助工薪族以及彩票中奖者从消费中获得最大的幸福。
 
 
 
