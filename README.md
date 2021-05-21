@@ -2539,6 +2539,8 @@ if 引导条件状语从句，一般用一般时表示将来
 
 
 
+## 5月17日到5月22日
+
 ```
 This slim volume is packed with tips to help wage slaves as well as lottery winners get the most “happiness bang for your buck.”
 ```
@@ -2582,6 +2584,62 @@ help sb do 帮助某人做某事
 这本薄薄的书给出了种种诀窍去帮助工薪族和暴发户去获得消费带来的最大幸福
 
 这本薄壁的小册子充满了种种小窍门，来帮助工薪族以及彩票中奖者从消费中获得最大的幸福。
+
+
+
+```
+It seems most people would be better off if they could shorten their commutes to work, spend more time with friends and family and less of it watching television something the average American spends a whopping two months a year doing, and is hardly jollier for it.
+```
+
+[音频](https://mp.weixin.qq.com/s/UkzVLcMXWH_bd1znCH3_UQ)
+
+**短语**
+
+better off 生活更好
+
+commute 通勤
+
+shorten commutes to work  缩短上下班距离
+
+average American 普通美国人
+
+whopping 庞大的
+
+jolly   快活的
+
+
+
+**主干**
+
+it （形式主语）seems (谓) that （宾）
+
+people （主）would be （系）better off（表） 
+
+
+
+**枝叶**
+
+if 引导条件状语从句
+
+something 是个同位语吗
+
+**翻译**
+
+对于大部分美国人，他们如果能缩短上下班的距离，花更多的时间去陪伴朋友和家人，减少看电视的时间，普通美国人一年要花两个月的时间来看电视，而且是非常喜欢，他们会过的更好。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
