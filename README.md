@@ -2587,6 +2587,8 @@ help sb do 帮助某人做某事
 
 
 
+:triangular_flag_on_post:
+
 ```
 It seems most people would be better off if they could shorten their commutes to work, spend more time with friends and family and less of it watching television something the average American spends a whopping two months a year doing, and is hardly jollier for it.
 ```
@@ -2597,7 +2599,7 @@ It seems most people would be better off if they could shorten their commutes to
 
 better off 生活更好
 
-commute 通勤
+commute  v.通勤    n.通勤的路程
 
 shorten commutes to work  缩短上下班距离
 
@@ -2607,33 +2609,31 @@ whopping 庞大的
 
 jolly   快活的
 
-
-
 **主干**
 
-it （形式主语）seems (谓) that （宾）
+it （形式主语）seems (谓) that （宾，省略）
 
-people （主）would be （系）better off（表） 
-
-
+people （主）would be （系）better off（表）虚拟语气 委婉的建议
 
 **枝叶**
 
 if 引导条件状语从句
 
-something 是个同位语吗
+something 同位语加后置定语
 
 **翻译**
 
 对于大部分美国人，他们如果能缩短上下班的距离，花更多的时间去陪伴朋友和家人，减少看电视的时间，普通美国人一年要花两个月的时间来看电视，而且是非常喜欢，他们会过的更好。
 
+如果他们能够缩短上下班的距离，多花些时间来陪伴朋友和家人，少花时间看电视（一般美国人每年看电视的时间多达两个月，但他们并未由此感到更快乐），他们的生活就会更加幸福。
 
 
 
+```
+This is apparently the reason McDonald’s restricts the availability of its popular McRib—a marketing trick that has turned the pork sandwich into an object of obsession.
+```
 
-
-
-
+[音频](https://mp.weixin.qq.com/s/frR1YqzabEXFh_DOSUiYQA)
 
 
 
