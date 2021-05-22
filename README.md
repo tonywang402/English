@@ -2647,15 +2647,25 @@ a marketing trick 一个营销花招
 
 an object of obsession  痴迷的对象
 
+**主干**
+
+this  （主）is  （谓）apparently （宾）  
+
+the reason 
+
+**枝叶**
+
+McDonald’s （主）restricts （谓）the availability（宾）
+
+of 修饰前面的Mcrib
+
+a marketing trick that  同位语加后定
 
 
 
+**翻译**
 
-
-
-
-
-
+麦当劳限制它受欢迎的McRib（一种让猪肉三明治变成痴迷对象的营销手段）的可获得性原因是很明显的 
 
 
 
