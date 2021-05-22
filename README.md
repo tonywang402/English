@@ -2635,6 +2635,50 @@ This is apparently the reason McDonald’s restricts the availability of its pop
 
 [音频](https://mp.weixin.qq.com/s/frR1YqzabEXFh_DOSUiYQA)
 
+**短语**
+
+apparently  明显地
+
+restrict  限制
+
+availability  可获得性
+
+a marketing trick 一个营销花招
+
+an object of obsession  痴迷的对象
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
