@@ -2541,6 +2541,8 @@ if 引导条件状语从句，一般用一般时表示将来
 
 ## 5月17日到5月22日
 
+:triangular_flag_on_post:
+
 ```
 This slim volume is packed with tips to help wage slaves as well as lottery winners get the most “happiness bang for your buck.”
 ```
@@ -2629,6 +2631,8 @@ something 同位语加后置定语
 
 
 
+:triangular_flag_on_post:
+
 ```
 This is apparently the reason McDonald’s restricts the availability of its popular McRib—a marketing trick that has turned the pork sandwich into an object of obsession.
 ```
@@ -2637,11 +2641,13 @@ This is apparently the reason McDonald’s restricts the availability of its pop
 
 **短语**
 
-apparently  明显地
+apparently  明显地，显然地
 
 restrict  限制
 
 availability  可获得性
+
+restrict the availability  限量发售
 
 a marketing trick 一个营销花招
 
@@ -2649,45 +2655,59 @@ an object of obsession  痴迷的对象
 
 **主干**
 
-this  （主）is  （谓）apparently （宾）  
-
-the reason 
+this  （主）is  （谓）apparently the reason (宾语)
 
 **枝叶**
 
-McDonald’s （主）restricts （谓）the availability（宾）
+（why / for which / that ）McDonald’s （主）restricts （谓）the availability（宾）
 
 of 修饰前面的Mcrib
 
 a marketing trick that  同位语加后定
 
-
-
 **翻译**
 
 麦当劳限制它受欢迎的McRib（一种让猪肉三明治变成痴迷对象的营销手段）的可获得性原因是很明显的 
 
+麦当劳限量发售其广受欢迎的猪排堡的原因是显然地，这是一个营销花招，把猪肉三明治变成让人们痴迷的对象。
+
+:triangular_flag_on_post:
+
+```
+Readers of Happy Money are clearly a privileged lot,anxious about fulfillment,not hunger.
+```
+
+[音频](https://mp.weixin.qq.com/s/tMAemRlw6qltLe7H1E3WVw)
+
+**短语积累**
+
+lot  一批 一群 一帮
+
+privileged  有特权的、有钱的、幸运的
+
+a privileged lot 幸运的一群人
+
+be anxious about  为...担心
+
+be anxious for  渴望得到
+
+**主干**
+
+readers are lot
 
 
 
+**枝叶**
 
+形容短语是非限制性定语从句的省略
 
+可以翻译为原因状语从句
 
+**翻译**
 
+快乐消费的读者是非常幸运的一群人，他们担心是否满足，而不是饥饿。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+幸福消费的读者显然是幸运的一群人，因为他们关心的是如何得到精神的满足感，而非为饥饿问题而操心。
 
 
 
