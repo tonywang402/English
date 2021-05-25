@@ -2711,6 +2711,72 @@ readers are lot
 
 
 
+```
+Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world,and scarcity enhances the pleasure of most things for most people.
+```
+
+[音频](https://mp.weixin.qq.com/s/DlwYlU8HM3mhTRwrque2HQ)
+
+**短语积累**
+
+among  在什么之中
+
+scarcity  缺乏
+
+the link between A and B        A与B之间的联系
+
+spending money on others    把钱花在别人身上
+
+can be seen among ...   在... 中可以看到
+
+**主干**
+
+the link （主）can be （系）seen（表） 
+
+**枝叶**
+
+scarcity enhances the pleasure 
+
+**翻译**
+
+然而，在世界范围内的穷人和富人，都会看到一种关系：就是把钱花在别人身上和感觉良好之间，稀缺性对于大部分的大部分事情是提升了幸福。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
