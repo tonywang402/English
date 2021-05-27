@@ -2745,6 +2745,68 @@ scarcity enhances the pleasure
 
 
 
+```
+Not everyone will agree with the authors’ policy ideas,which range from mandating more holiday time to reducing tax incentives for American homebuyers.
+```
+
+[音频](https://mp.weixin.qq.com/s/rHlu-xJYQlMIRnIG5F8vfA)
+
+**短语**
+
+not everyone  部分否定，并非所有的人
+
+agree with 认同某人\某事
+
+policy ideas 政策建议 有关社会政策的   
+
+range from A to B 范围涉及从A到B
+
+mandate  批准、强制执行
+
+reduce incentives 降低激励
+
+homebuyers 购房者
+
+**主干**
+
+everyone （主）will agree（谓） with ideas（宾）
+
+**枝叶**
+
+which 引导一个非限制性定语从句，是举例说明
+
+**翻译**
+
+不是每个人都认同作者的政策建议，这个建议包括从强制执行延长休假时间到对美国购房者减少税收。
+
+并非每个人都赞同作者有关社会政策的种种建议，其中包括批准更多的休假时间以及减少对美国购房者的税收激励。
+
+
+
+```
+An article in Scientific American has pointed out that empirical research says that, actually, you think you’re more beautiful than you are.
+```
+
+[音频](https://mp.weixin.qq.com/s/t2t8CYlZWdF1l9aHjpfmJA)
+
+**短语**
+
+empirical 基于实验的
+
+research  试验研究
+
+**主干**
+
+an article （主）has （谓）pointed out（宾）  that（补足语）
+
+**枝叶**
+
+research says that 
+
+**翻译**
+
+《科学美国人》上的一篇文章指出试验研究表明，实际上，人们会认为自己比本来的更美丽。
+
 
 
 
