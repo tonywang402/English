@@ -2791,7 +2791,7 @@ An article in Scientific American has pointed out that empirical research says t
 
 **短语**
 
-empirical 基于实验的
+empirical 基于实验的，以试验为基础的
 
 research  试验研究
 
@@ -2809,13 +2809,45 @@ research says that
 
 
 
+```
+Social psychologists have amassed oceans of research into what they call the “above average effect”,or “illusory superiority”,and shown that,for example,70% of us rate ourselves as above average in leadership,93% in driving and 85% at getting on well with others—all obviously statistical impossibilities.
+```
 
+[音频](https://mp.weixin.qq.com/s/YO-ZmupCbXhXTqDZQBT7zA)
 
+**短语积累**
 
+psychologist  心理学家
 
+amass  积累
 
+illusory 虚幻的
 
+superiority 优越性
 
+rate ...as...  把...定级为
+
+statistical impossibility  统计数据上不可能的事情
+
+get on well with 与...相处很好
+
+**主干**
+
+Psychologists（主） have amassed（谓） research（宾语） into what they call the ...（what引导名称性从句作宾语补足语）
+
+and shown （宾）that（宾语补足语）
+
+病例递进句
+
+**枝叶**
+
+all obviously statistical impossibiliies  
+
+定语从句
+
+**翻译**
+
+社会心理学家在他们称为的”高于均数效应“或”虚幻的优越感“上进行了海量的研究，研究表明，70%的人认为自己在领导力上，93%的人认为自己开车上，85%的人在认为与他人的相处上高于平均水平，这些在统计数据上看都是不可能的事情。
 
 
 
