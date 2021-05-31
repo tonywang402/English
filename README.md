@@ -2671,7 +2671,7 @@ a marketing trick that  同位语加后定
 
 麦当劳限量发售其广受欢迎的猪排堡的原因是显然地，这是一个营销花招，把猪肉三明治变成让人们痴迷的对象。
 
-:triangular_flag_on_post:
+:fire:
 
 ```
 Readers of Happy Money are clearly a privileged lot,anxious about fulfillment,not hunger.
@@ -2709,7 +2709,7 @@ readers are lot
 
 幸福消费的读者显然是幸运的一群人，因为他们关心的是如何得到精神的满足感，而非为饥饿问题而操心。
 
-
+:fire:
 
 ```
 Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world,and scarcity enhances the pleasure of most things for most people.
@@ -2743,7 +2743,7 @@ scarcity enhances the pleasure
 
 然而，在全世界，无论是富人还是穷人，都会看到这样一种关系：就是把钱消费在别人身上会给自己带来幸福感；此外，稀缺性会增加大多数人对大多数事物的幸福感受。
 
-
+:fire:
 
 ```
 Not everyone will agree with the authors’ policy ideas,which range from mandating more holiday time to reducing tax incentives for American homebuyers.
@@ -2781,7 +2781,7 @@ which 引导一个非限制性定语从句，是举例说明
 
 并非每个人都赞同作者有关社会政策的种种建议，其中包括批准更多的休假时间以及减少对美国购房者的税收激励。
 
-
+:fire:
 
 ```
 An article in Scientific American has pointed out that empirical research says that, actually, you think you’re more beautiful than you are.
@@ -2848,22 +2848,6 @@ all obviously statistical impossibiliies
 **翻译**
 
 社会心理学家在他们称为的”高于均数效应“或”虚幻的优越感“上进行了海量的研究，研究表明，70%的人认为自己在领导力上，93%的人认为自己开车上，85%的人在认为与他人的相处上高于平均水平，这些在统计数据上看都是不可能的事情。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
