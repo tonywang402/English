@@ -2541,7 +2541,7 @@ if 引导条件状语从句，一般用一般时表示将来
 
 ## 5月17日到5月22日
 
-:triangular_flag_on_post:
+:fire:
 
 ```
 This slim volume is packed with tips to help wage slaves as well as lottery winners get the most “happiness bang for your buck.”
@@ -2589,7 +2589,7 @@ help sb do 帮助某人做某事
 
 
 
-:triangular_flag_on_post:
+:fire:
 
 ```
 It seems most people would be better off if they could shorten their commutes to work, spend more time with friends and family and less of it watching television something the average American spends a whopping two months a year doing, and is hardly jollier for it.
@@ -2631,7 +2631,7 @@ something 同位语加后置定语
 
 
 
-:triangular_flag_on_post:
+:fire::fire: :fire:
 
 ```
 This is apparently the reason McDonald’s restricts the availability of its popular McRib—a marketing trick that has turned the pork sandwich into an object of obsession.
@@ -2671,7 +2671,7 @@ a marketing trick that  同位语加后定
 
 麦当劳限量发售其广受欢迎的猪排堡的原因是显然地，这是一个营销花招，把猪肉三明治变成让人们痴迷的对象。
 
-:fire:
+:fire: :fire: :fire:
 
 ```
 Readers of Happy Money are clearly a privileged lot,anxious about fulfillment,not hunger.
@@ -2709,7 +2709,7 @@ readers are lot
 
 幸福消费的读者显然是幸运的一群人，因为他们关心的是如何得到精神的满足感，而非为饥饿问题而操心。
 
-:fire:
+:fire:  :fire: :fire: :fire:
 
 ```
 Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world,and scarcity enhances the pleasure of most things for most people.
@@ -2743,7 +2743,7 @@ scarcity enhances the pleasure
 
 然而，在全世界，无论是富人还是穷人，都会看到这样一种关系：就是把钱消费在别人身上会给自己带来幸福感；此外，稀缺性会增加大多数人对大多数事物的幸福感受。
 
-:fire:
+:fire: :fire: 🔥 :fire:
 
 ```
 Not everyone will agree with the authors’ policy ideas,which range from mandating more holiday time to reducing tax incentives for American homebuyers.
@@ -2759,7 +2759,7 @@ agree with 认同某人\某事
 
 policy ideas 政策建议 有关社会政策的   
 
-range from A to B 范围涉及从A到B
+range from A to B 范围涉及从∑A到B
 
 mandate  批准、强制执行
 
@@ -2781,10 +2781,10 @@ which 引导一个非限制性定语从句，是举例说明
 
 并非每个人都赞同作者有关社会政策的种种建议，其中包括批准更多的休假时间以及减少对美国购房者的税收激励。
 
-:fire:
+:fire:   :fire: :fire: :fire:
 
 ```
-An article in Scientific American has pointed out that empirical research says that, actually, you think you’re more beautiful than you are.
+An article in Scientific American has pointed out that empirical research says that, actually, you think you’re more beautiful th∑an you are.
 ```
 
 [音频](https://mp.weixin.qq.com/s/t2t8CYlZWdF1l9aHjpfmJA)
@@ -2853,9 +2853,11 @@ all obviously statistical impossibiliies
 
 
 
+```
+Since technology has such an insatiable appetite for eating up human jobs,this phenomenon will continue to restructure our economy in ways we can’t immediately foresee.
+```
 
-
-
+[音频](https://mp.weixin.qq.com/s/zPcZD0uHMGgkhRYN6r9h7g)
 
 
 
